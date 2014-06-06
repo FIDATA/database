@@ -1,0 +1,6 @@
+id;trade_organizer_symbol;name;website;timezone;actuality;comments
+1;MISX;Moscow Exchange;rts.micex.ru;Europe/Moscow;TRUE;
+2;;Finam;www.finam.ru;;TRUE;
+3;;Yahoo Finance!;finance.yahoo.com;;TRUE;
+4;;StatLib;lib.stat.cmu.edu;;TRUE;
+5;;РБКQuote;quote.rbc.ru;;TRUE;

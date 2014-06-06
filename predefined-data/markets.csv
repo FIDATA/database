@@ -1,0 +1,940 @@
+id;country_name;country_alpha2_code;symbol;trade_organizer_symbol;name;acronym;city;website;timezone;actuality;comments
+1;Albania;AL;XTIR;;Tirana Stock Exchange;;Tirana;;Tirana;TRUE;
+2;Algeria;DZ;XALG;;Algiers Stock Exchange;;Algiers;;Algiers;TRUE;
+3;Argentina;AR;BACE;;Bolsa de Cereales de Buenos Aires;;Buenos Aires;www.bolcereales.com.ar;Buenos Aires;TRUE;COMMODITY EXCHANGE.
+4;Argentina;AR;BCFS;;Bolsa de Comercio de Santa Fe;;Santa Fe;www.bcsf.com.ar;Santa Fe;TRUE;
+5;Argentina;AR;XMVL;BCFS;Mercado de Valores del Litoral S.A.;;Santa Fe;www.mvl.com.ar;Santa Fe;TRUE;
+6;Argentina;AR;ROFX;;Rosario Future Exchange;ROFEX;Rosario;www.rofex.com.ar;Rosario;TRUE;REGISTERED MARKET FOR FUTURES AND OPTIONS.
+7;Argentina;AR;XBCC;;Bolsa de Comercio de Cordoba;;Cordoba;www.bolsacba.com.ar;Cordoba;TRUE;
+8;Argentina;AR;MVCX;XBCC;Mercado de Valores de Cordoba S.A.;;Cordoba;www.mervalcordoba.com.ar;Cordoba;TRUE;
+9;Argentina;AR;XBCM;;Bolsa de Comercio de Mendoza S.A.;;Mendoza;www.bolsamza.com.ar;Mendoza;TRUE;
+10;Argentina;AR;XBCX;XBCM;Mercado de Valores de Mendoza S.A.;;Mendoza;www.mervalmza.com.ar;Mendoza;TRUE;
+11;Argentina;AR;XBUE;;Bolsa de Comercio de Buenos Aires;BCBA;Buenos Aires;www.bcba.sba.com.ar;Buenos Aires;TRUE;
+12;Argentina;AR;XMEV;XBUE;Mercado de Valores de Buenos Aires S.A.;MERVAL;Buenos Aires;www.merval.sba.com.ar;Buenos Aires;TRUE;
+13;Argentina;AR;XCNF;;Bolsa de Comercio Confederada S.A.;BCC;Corrientes;www.bolsanor.com;Corrientes;TRUE;
+14;Argentina;AR;XMAB;;Mercado Abierto Electronico S.A.;MAE;Buenos Aires;www.mae.com.ar;Buenos Aires;TRUE;
+15;Argentina;AR;XMTB;;Mercado a Termino de Buenos Aires S.A.;MATBA;Buenos Aires;www.matba.com.ar;Buenos Aires;TRUE;
+16;Argentina;AR;XROS;;Bolsa de Comercio Rosario;BCR;Rosario;www.bcr.com.ar;Rosario;TRUE;
+17;Argentina;AR;XROX;XROS;Mercado de Valores de Rosario S.A.;MERVAROS;Rosario;www.mervaros.com.ar;Rosario;TRUE;
+18;Argentina;AR;XTUC;XROS;Nueva Bolsa de Comercio de Tucuman S.A.;NBCT;Tucuman;www.nbct.com.ar;Tucuman;TRUE;
+19;Armenia;AM;XARM;;NASDAQ OMX Armenia;ARMEX;Yerevan;www.nasdaqomx.com;Yerevan;TRUE;NASDAQ OMX ARMENIA IS THE NEW NAME OF THE ARMENIAN STOCK EXCHANGE.
+20;Australia;AU;APXL;;Asia Pacific Exchange Limited;;Sydney;www.apx.com.au;Sydney;TRUE;AS A SECURITIES EXCHANGE, APX PROVIDES ‘LISTING’ FACILITIES TO COMPANIES AND SECURITIES ISSUERS AS WELL AS ‘TRADING’ FACILITIES FOR STOCK BROKERS, TRADERS AND INVESTORS TO BUY AND SELL SHARES/SECURITIES.
+21;Australia;AU;AWBX;;Australian Wheat Board;AWB;Melbourne;www.awb.com.au;Melbourne;TRUE;
+22;Australia;AU;AWEX;;Australian Wool Exchange;AWEX;Lane Cove;www.awex.com.au;Lane Cove;TRUE;
+23;Australia;AU;CGMA;;Citi Match Australia;;Sydney;icg.citi.com/icg/global_markets/product_solutions/global_equities/citi_match.jsp;Sydney;TRUE;
+24;Australia;AU;CHIA;;Chi-X Australia;;Sydney;www.chi-x.com/apac/;Sydney;TRUE;
+25;Australia;AU;CXAC;CHIA;Chi-X Market A;;Sydney;www.chi-x.com.au;Sydney;TRUE;CHI-X AUSTRALIA-TRADING VENUE.
+26;Australia;AU;MEAU;;Macquarie Execution (AU);;Sydney;www.macquarie.com;Sydney;TRUE;MACQUARIE SECURITIES DARK POOL FOR TRADING AUSTRALIAN EQUITIES.
+27;Australia;AU;MAQX;MEAU;Macquarie Internal Markets;;Sydney;www.macquarie.com;Sydney;TRUE;ALL MARKETS.
+28;Australia;AU;NSXB;;Bendigo Stock Exchange Limited;BSX;Melbourne;www.bsx.com.au;Melbourne;TRUE;
+29;Australia;AU;SIGA;;Sigma X Australia;;Sydney;www.gset.gs.com;Sydney;TRUE;ALTERNATIVE TRADING SYSTEM (ATS)OPERATED BY GOLDMAN SACHS
+30;Australia;AU;SIMV;;Sim Venture Securities Exchange;;Sydney;www.simvse.com.au;Sydney;TRUE;
+31;Australia;AU;XASX;;ASX - All Markets;ASX;Sydney;www.asx.com.au;Sydney;TRUE;
+32;Australia;AU;ASXB;XASX;ASX Bookbuild;ASX;Sydney;www.asx.com.au;Sydney;TRUE;ON-MARKET AUTOMATED BOOKBUILD MECHANISM CALLED ASX BOOKBUILD TO ALLOW ASX LISTED COMPANIES TO PRICE AND ALLOCATE NEW SECURITIES.
+33;Australia;AU;ASXC;XASX;ASX - Center Point;ASX;Sydney;www.asx.com.au/trading_services/asx-trade.htm;Sydney;TRUE;CENTRE POINT ARE ORDER TYPES IN ASX TRADE ENABLING EXECUTION AT THE PREVAILING MIDPOINT OF THE BEST BID AND OFFER OF THE ASX CENTRAL LIMIT ORDER BOOK.
+34;Australia;AU;ASXP;XASX;ASX - Purematch;ASX;Sydney;www.asx.com.au/trading_services/asx-trade.htm;Sydney;TRUE;ASX PUREMATCH IS AN ADDITIONAL ORDER BOOK LAUNCHING IN MID 2011 AIMED AT MEETING THE NEEDS OF LATENCY SENSITIVE TRADERS, PROVIDING TRADING IN A SUBSET OF ASX LISTED SECURITIES.
+35;Australia;AU;ASXT;XASX;ASX Tradematch;ASX;Sydney;www.asx.com.au;Sydney;TRUE;MERGER BETWEEN XASX AND XSFE.
+36;Australia;AU;ASXV;XASX;ASX - Volumematch;ASX;Sydney;www.asx.com.au/trading_services/asx-trade.htm;Sydney;TRUE;ASX LAUNCHED VOLUMEMATCH IN JUNE 2011, AN ASX TRADE EXECUTION FACILITY THAT ENABLES END USERS TO SEARCH FOR LIQUIDITY AND EXECUTE LARGE ORDERS ANONYMOUSLY.
+37;Australia;AU;XSFE;XASX;ASX - Trade24;SFE;Sydney;www.sfe.com.au;Sydney;TRUE;
+38;Australia;AU;XNEC;;National Stock Exchange of Australia Limited;NSXA;Newcastle;www.nsxa.com.au;Newcastle;TRUE;
+39;Australia;AU;XYIE;;Yieldbroker Pty Ltd;;Sydney;www.yieldbroker.com;Sydney;TRUE;
+40;Austria;AT;EXAA;;Austrian Energy Exchange;EXAA;Vienna;www.exaa.at;Vienna;TRUE;
+41;Austria;AT;XWBO;;Wiener Boerse AG;;Vienna;www.wienerboerse.at;Vienna;TRUE;
+42;Austria;AT;WBAH;XWBO;Wiener Boerse AG Amtlicher Handel (Official Market);;Vienna;www.wienerboerse.at;Vienna;TRUE;
+43;Austria;AT;WBDM;XWBO;Wiener Boerse AG Dritter Markt (Third Market);;Vienna;www.wienerboerse.at;Vienna;TRUE;
+44;Austria;AT;WBGF;XWBO;Wiener Boerse AG Geregelter Freiverkehr (Semi-Official Market);;Vienna;www.wienerboerse.at;Vienna;TRUE;
+45;Austria;AT;XCEG;XWBO;Wiener Boerse AG, Cegh Gas Exchange;;Vienna;www.ceghex.com;Vienna;TRUE;CENTRAL EUROPEAN GAS HUB (CEGH) IS ONE OF THE MOST IMPORTANT TRADING HUBS FOR NATURAL GAS IN CENTRAL EUROPE AND PROVIDES EXCHANGE SERVICES TOGETHER WITH VIENNA STOCK EXCHANGE.
+46;Austria;AT;XVIE;XWBO;Wiener Boerse AG, Wertpapierboerse (Securities Exchange);;Vienna;www.wienerborse.at;Vienna;TRUE;
+47;Azerbaijan;AZ;BSEX;;Baku Stock Exchange;;Baku;www.bse.az;Baku;TRUE;
+48;Azerbaijan;AZ;XIBE;;Baku Interbank Currency Exchange;;Baku;www.bbvb.org;Baku;TRUE;
+49;Bahamas;BS;XBAA;;Bahamas International Securities Exchange;BISX;Nasau;www.bisxbahamas.com;Nasau;TRUE;
+50;Bahrain;BH;BFEX;;Bahrain Financial Exchange;;Manama;www.bfx.bh;Manama;TRUE;THE BFX IS THE FIRST MULTI-ASSET CLASS EXCHANGE IN THE MIDDLE EAST REGION AND WILL BE INTERNATIONALLY ACCESSIBLE TO TRADE CASH INSTRUMENTS, STRUCTURED PRODUCTS AND SHARIA-COMPLIANT FINANCIAL INSTRUMENTS AS WELL AS DERIVATIVES.
+51;Bahrain;BH;XBAH;;Bahrain Bourse;BSE;Manama;www.bahrainbourse.com.bh;Manama;TRUE;
+52;Bangladesh;BD;XCHG;;Chittagong Stock Exchange Ltd.;CSE;Chittagong;www.csebd.com;Chittagong;TRUE;
+53;Bangladesh;BD;XDHA;;Dhaka Stock Exchange Ltd;DSE;Dhaka;www.dsebd.org;Dhaka;TRUE;
+54;Barbados;BB;XBAB;;Barbados Stock Exchange;BSE;Bridgetown;www.bse.com.bb;Bridgetown;TRUE;MAIN MARKET
+55;Barbados;BB;BAJM;XBAB;Barbados Stock Exchange - Junior Market;BSE;Bridgetown;www.bse.com.bb;Bridgetown;TRUE;MARKET FOR SMALL COMPANIES
+56;Belarus;BY;BCSE;;Belarus Currency and Stock Exchange;BCSE;Minsk;www.bcse.by;Minsk;TRUE;
+57;Belgium;BE;BLPX;;Belgian Power Exchange;BLPX;Brussels;www.belpex.be;Brussels;TRUE;
+58;Belgium;BE;BMTS;;MTS Belgium;;Brussels;www.mtsbelgium.com;Brussels;TRUE;
+59;Belgium;BE;MTSD;BMTS;MTS Denmark;;Brussels;www.mtsdenmark.com;Brussels;TRUE;
+60;Belgium;BE;MTSF;BMTS;MTS Finland;;Brussels;www.mtsfinland.com;Brussels;TRUE;
+61;Belgium;BE;XBRU;;NYSE Euronext - Euronext Brussels;;Brussels;www.euronext.com;Brussels;TRUE;
+62;Belgium;BE;ALXB;XBRU;NYSE Euronext - Alternext Brussels;;Brussels;www.euronext.com;Brussels;TRUE;
+63;Belgium;BE;ENXB;XBRU;NYSE Euronext - Easy Next;;Brussels;www.euronext.com;Brussels;TRUE;MULTILATERAL TRADING FACILITY FOR WARRANTS AND CERTIFICATES
+64;Belgium;BE;MLXB;XBRU;NYSE Euronext - Marche Libre Brussels;;Brussels;www.euronext.com;Brussels;TRUE;
+65;Belgium;BE;TNLB;XBRU;NYSE Euronext - Trading Facility Brussels;;Brussels;www.euronext.com;Brussels;TRUE;
+66;Belgium;BE;VPXB;XBRU;NYSE Euronext - Ventes Publiques Brussels;;Brussels;www.euronext.com;Brussels;TRUE;
+67;Belgium;BE;XBRD;XBRU;NYSE Euronext - Euronext Brussels - Derivatives;;Brussels;www.euronext.com;Brussels;TRUE;
+68;Bermuda;BM;XBDA;;Bermuda Stock Exchange Ltd;BSX;Hamilton;www.bsx.com;Hamilton;TRUE;
+69;Bolivia;BO;XBOL;;Bolsa Boliviana de Valores S.A.;;La Paz;www.bolsa-valores-bolivia.com;La Paz;TRUE;
+70;Bosnia and Herzegovina;BA;XBLB;;Banja Luka Stock Exchange;;Banja Luka;www.blberza.com;Banja Luka;TRUE;
+71;Bosnia and Herzegovina;BA;BLBF;XBLB;Banja Luka Stock Exchange - Free Market;BLSE;Banja Luka;www.blberza.com;Banja Luka;TRUE;
+72;Bosnia and Herzegovina;BA;XSSE;;Sarajevo Stock Exchange;SASE;Sarajevo;www.sase.ba;Sarajevo;TRUE;
+73;Botswana;BW;XBOT;;Botswana Stock Exchange;;Gaborone;www.bse.co.bw;Gaborone;TRUE;
+74;Botswana;BW;BOTE;XBOT;Botswana Stock Exchange - Exchange Traded Funds (ETF);BOT;Gaborone;www.bse.co.bw;Gaborone;TRUE;
+75;Botswana;BW;BOTV;XBOT;Botswana Stock Exchange - Venture Capital;BOT;Gaborone;www.bse.co.bw;Gaborone;TRUE;
+76;Brazil;BR;BCMM;;Bolsa de Cereais e Mercadorias de Maringá;;Maringa;www.bcmm.com.br;Maringa;TRUE;COMMODITIES MARKET.
+77;Brazil;BR;BOVM;;Bolsa de Valores Minas-Espírito Santo-Brasília;;Espirito Santo;www.bovmesb.com.br;Espirito Santo;TRUE;COMMODITIES MARKET.
+78;Brazil;BR;BRIX;;Brazilian Energy Exchange;;Sao Paulo;;Sao Paulo;TRUE;ELECTRONIC TRADING PLATFORM FOR OTC DERIVATIVES
+79;Brazil;BR;BVMF;;Bm&FBovespa S.A. - Bolsa de Valores, Mercadorias e Futuros;;Sao Paulo;www.bmfbovespa.com.br;Sao Paulo;TRUE;EQUITIES, SECURITIES, FINANCIAL ASSETS, INDICES, INTEREST RATES, AGRICULTURAL COMMODITIES, AND FOREIGN EXCHANGE FUTURES AND SPOT CONTRACTS.
+80;Brazil;BR;CETI;;Cetip S.A. - Mercados Organizados;;Rio de Janeiro;www.cetip.com.br;Rio de Janeiro;TRUE;ELECTRONIC TRADING, TRADE REGISTRATION AND FINANCIAL SETTLEMENT FOR TRANSACTIONS INVOLVING FIXED INCOME SECURITIES AND OTC DERIVATIVES.
+81;Brazil;BR;SELC;;Sistema Especial de Liquidacao e Custodia de Titulos Publicos;;Rio de Janeiro;www4.bcb.gov.br;Rio de Janeiro;TRUE;SELIC (SISTEMA ESPECIAL DE LIQUIDACAO E CUSTODIA DE TITULOS PUBLICOS - IN ENGLISH: SPECIAL SYSTEM FOR CUSTODY AND SETTLEMENT OF PUBLIC SECURITIES) IS THE CENTRAL CUSTODIAN FOR ALL SECURITIES EMITTED BY THE BRAZILIAN NATIONAL TREASURY.
+82;Bulgaria;BG;XBUL;;Bulgarian Stock Exchange;BSE;Sofia;www.bse-sofia.bg;Sofia;TRUE;
+83;Cambodia;KH;XCSX;;Cambodia Securities Exchange;CSX;Phnom Penh;www.csx.com.kh;Phnom Penh;TRUE;
+84;Cameroon;CM;XDSX;;Douala Stock Exchange;;Douala;www.douala-stock-exchange.com;Douala;TRUE;REGISTERED MARKET FOR EQUITIES
+85;Canada;CA;CANX;;Cannex Financial Exchange Lts;CANNEX;Toronto;www.cannex.com;Toronto;TRUE;
+86;Canada;CA;CHIC;;Chi-X Canada ATS;;Toronto;www.chi-xcanada.com;Toronto;TRUE;MARKET MODEL FOCUSED ON EQUAL OPPORTUNITY TRADING AND MARKET-LEVEL INNOVATION TO DRIVE GROWTH IN THE CANADIAN EQUITY MARKET
+87;Canada;CA;XCX2;CHIC;CX2;;Toronto;www.chi-x.com/ca;Toronto;TRUE;REGISTERED MARKET FOR EQUITIES
+88;Canada;CA;IFCA;;ICE Futures Canada;;Winnipeg;www.theice.com;Winnipeg;TRUE;ELECTRONIC PLATFORM TO TRADE FUTURES AND OPTIONS PRODUCTS. IFCA REPLACES MIC XWCE.
+89;Canada;CA;LICA;;Liquidnet Canada ATS;;Toronto;www.liquidnet.com;Toronto;TRUE;REGISTERED MARKET FOR EQUITIES, ELECTRONIC TRADING.
+90;Canada;CA;MATN;;Match Now;;Toronto;www.triactcanada.com;Toronto;TRUE;MARKETPLACE FOR REGISTERED CANADIAN INVESTMENT DEALERS AND THEIR CLIENTS TO TRADE CANADIAN LISTED EQUITIES.
+91;Canada;CA;NGXC;;Natural Gas Exchange;NGX;Calgary;www.ngx.com;Calgary;TRUE;NGX PROVIDES ELECTRONIC TRADING, CENTRAL COUNTERPARTY CLEARING AND DATA SERVICES TO THE NORTH AMERICAN NATURAL GAS AND ELECTRICITY MARKETS.
+92;Canada;CA;OMGA;;Omega ATS;;Toronto;www.omegaats.com;Toronto;TRUE;
+93;Canada;CA;LYNX;OMGA;Lynx ATS;;Toronto;www.omegaats.com;Toronto;TRUE;LYNX ATS IS A REGISTERED MARKET FOR THE FULLY ELECTRONIC TRADING OF EQUITIES AND FIXED INCOME.
+94;Canada;CA;TMXS;;Tmx Select;;Toronto;www.tmx.com;Toronto;TRUE;TMX SELECT IS AN EQUITIES ATS IN CANADA. OWNED BY TMX GROUP, IT LEVERAGES THE SAME TECHNOLOGY AS THE TORONTO STOCK EXCHANGE TO TRADE SECURITIES THAT ARE LISTED BY EXCHANGES THAT ARE RECOGNIZED IN A CANADIAN JURISDICTION.
+95;Canada;CA;XATS;;Alpha Exchange;;Toronto;www.alphatradingsystems.ca;Toronto;TRUE;REGULATED MARKETPLACE FOR TRADING EQUITY AND EQUITY RELATED SECURITIES.
+96;Canada;CA;XBBK;;Perimeter Financial Corp. - Blockbook ATS;;Toronto;www.pfin.ca;Toronto;TRUE;ALTERNATIVE TRADING SYSTEM FOR BLOCK TRADING OF CANADIAN LISTED EQUITIES
+97;Canada;CA;XCNQ;;Canadian National Stock Exchange;CNSX;Toronto;www.cnsx.ca;Toronto;TRUE;FORMERLY KNOWN AS THE CANADA TRADING AND QUOTING SYSTEM INC.(CANADA'S NEW STOCK EXCHANGE)
+98;Canada;CA;PURE;XCNQ;Pure Trading;;Toronto;www.puretrading.ca;Toronto;TRUE;
+99;Canada;CA;XICX;;Instinet Canada Cross;;Toronto;www.instinet.com;Toronto;TRUE;ALTERNATIVE CANADIAN MARKETPLACE TO REGISTERED INVESTMENT DEALERS AND THEIR CLIENTS TO TRADE CANADIAN LISTED EQUITIES.
+100;Canada;CA;XMOC;;Montreal Climate Exchange;;Montreal;www.m-x.ca;Montreal;TRUE;
+101;Canada;CA;XMOD;;The Montreal Exchange / Bourse de Montreal;CDE;Montreal;www.m-x.ca;Montreal;TRUE;
+102;Canada;CA;XTSE;;Toronto Stock Exchange;TSX;Toronto;www.tse.com;Toronto;TRUE;
+103;Canada;CA;XTSX;;TSX Venture Exchange;TSX-V;Toronto;www.tsx.com;Toronto;TRUE;
+104;Canada;CA;XTNX;XTSX;TSX Venture Exchange - NEX;NEX;Vancouver;www.tsx.com/en/nex;Vancouver;TRUE;
+105;Cape Verde;CV;XBVC;;Cape Verde Stock Exchange;BVC;Praia;www.bvc.cv;Praia;TRUE;
+106;Cayman Islands;KY;XCAY;;Cayman Islands Stock Exchange;;Georgetown;www.csx.com.ky;Georgetown;TRUE;
+107;Chile;CL;BOVA;;Bolsa de Corredores - Bolsa de Valores;;Valparaiso;www.bovalpo.com;Valparaiso;TRUE;EQUITY AND BOND MARKET.
+108;Chile;CL;XBCL;;La Bolsa Electronica de Chile;BOLCHILE;Santiago;www.bolchile.cl;Santiago;TRUE;
+109;Chile;CL;XSGO;;Santiago Stock Exchange;;Santiago;www.bolsadesantiago.com;Santiago;TRUE;
+110;China;CN;CCFX;;China Financial Futures Exchange;;Shanghai;www.cffex.com.cn;Shanghai;TRUE;
+111;China;CN;CSSX;;China Stainless Steel Exchange;;Wuxi;www.exbxg.com;Wuxi;TRUE;
+112;China;CN;SGEX;;Shanghai Gold Exchange;SGE;Shanghai;www.sge.sh;Shanghai;TRUE;
+113;China;CN;XCFE;;China Foreign Exchange Trade System;CFETS;Shanghai;www.chinamoney.com.cn;Shanghai;TRUE;
+114;China;CN;XDCE;;Dalian Commodity Exchange;DCE;Dalian;www.dce.com.cn;Dalian;TRUE;
+115;China;CN;XSGE;;Shanghai Futures Exchange;SHFE;Shanghai;www.shfe.com.cn;Shanghai;TRUE;
+116;China;CN;XSHE;;Shenzhen Stock Exchange;;Shenzhen;www.szse.cn;Shenzhen;TRUE;
+117;China;CN;XSHG;;Shanghai Stock Exchange;;Shanghai;www.sse.com.cn;Shanghai;TRUE;
+118;China;CN;XZCE;;Zhengzhou Commodity Exchange;ZCE;Zhengzhou;www.czce.com.cn;Zhengzhou;TRUE;
+119;Colombia;CO;XBOG;;Bolsa de Valores de Colombia;BVC;Bogota;www.bvc.com.co;Bogota;TRUE;
+120;Costa Rica;CR;XBNV;;Bolsa Nacional de Valores, S.A.;BNV;San Jose;www.bolsacr.com;San Jose;TRUE;
+121;Croatia;HR;XTRZ;;Zagreb Money and Short Term Securities Market Inc;;Zagreb;www.trzistenovca.hr;Zagreb;TRUE;
+122;Croatia;HR;XZAG;;Zagreb Stock Exchange;;Zagreb;www.zse.hr;Zagreb;TRUE;
+123;Croatia;HR;XZAM;XZAG;The Zagreb Stock Exchange MTF;;Zagreb;www.zse.hr;Zagreb;TRUE;MULTILATERAL TRADING FACILITY OF THE ZAGREB STOCK EXCHANGE.
+124;Curacao;CW;DCSX;;Dutch Caribbean Securities Exchange;DCSX;Willemstad;www.dcsx.an;Willemstad;TRUE;INTERNATIONAL EXCHANGE FOR THE LISTING AND TRADING IN DOMESTIC- AND INTERNATIONAL SECURITIES.
+125;Cyprus;CY;XCYS;;Cyprus Stock Exchange;CSE;Nicosia (Lefkosia);www.cse.com.cy;Nicosia (Lefkosia);TRUE;
+126;Cyprus;CY;XCYO;XCYS;Cyprus Stock Exchange - OTC;;Nicosia (Lefkosia);www.cse.com.cy;Nicosia (Lefkosia);TRUE;ELECTRONIC TRADING PLATFORM FOR OTC.
+127;Cyprus;CY;XECM;XCYS;MTF - Cyprus Exchange;;Nicosia;www.cse.com.cy/en/default.asp;Nicosia;TRUE;
+128;Czech Republic;CZ;XPRA;;Prague Stock Exchange;PSE;Prague;www.pse.cz;Prague;TRUE;
+129;Czech Republic;CZ;XPXE;;Power Exchange Central Europe;PXE;Prague;www.pxe.cz;Prague;TRUE;
+130;Czech Republic;CZ;XRMZ;;RM-SYSTEM Czech Stock Exchange;RMS CZ;Prague;www.rmsystem.cz;Prague;TRUE;
+131;Czech Republic;CZ;XRMO;XRMZ;RM-SYSTEM Czech Stock Exchange (MTF);RMS CZ;Prague;www.rmsystem.cz;Prague;TRUE;ELECTRONIC TRADING PLATFORM FOR EQUITIES AND BONDS LEGALLY DEFINED AS A MULTI-SIDED TRADING SYSTEM (MOS) WITH MORE OPEN CONDITIONS FOR ACCEPTING SECURITIES.
+132;Denmark;DK;DKTC;;Dansk OTC;;Horsens;www.danskotc.dk;Horsens;TRUE;
+133;Denmark;DK;GXGR;;GXG Markets A/S;Dansk AMP;Horsens;www.gxgmarkets.com;Horsens;TRUE;
+134;Denmark;DK;GXGF;GXGR;GXG MTF First Quote;;Horsens;www.gxgmarkets.com;Horsens;TRUE;
+135;Denmark;DK;GXGM;GXGR;GXG MTF;;Horsens;www.gxgmarkets.com;Horsens;TRUE;MULTILATERAL TRADING FACILITY FOR EQUITIES AND BONDS.
+136;Denmark;DK;NPGA;;Nord Pool Gas A/S;;Copenhagen;www.nordpoolgas.com;Copenhagen;TRUE;NORD POOL GAS IS OPERATING A PLATFORM FOR CONTINOUS ELECTRONIC TRADING OF GAS DELIVERABLE TO THE NPTF VIRTUAL TRADING POINT.
+137;Denmark;DK;XCSE;;OMX Nordic Exchange Copenhagen A/S;;Copenhagen;www.omxnordicexchange.com;Copenhagen;TRUE;
+138;Denmark;DK;XFND;XCSE;First North Denmark;;Copenhagen;www.omxnordicexchange.com;Copenhagen;TRUE;
+139;Dominican Republic;DO;XBVR;;Bolsa de Valores de la Republica Dominicana SA.;BVRD;Santo Domingo;www.bolsard.com;Santo Domingo;TRUE;
+140;Ecuador;EC;XGUA;;Bolsa de Valores de Guayaquil;;Guayaquil;www.mundobvg.com;Guayaquil;TRUE;
+141;Ecuador;EC;XQUI;;Bolsa de Valores de Quito;;Quito;www.ccbvq.com;Quito;TRUE;
+142;Egypt;EG;NILX;;Nile Stock Exchange;;Cairo;www.nilex.egyptse.com;Cairo;TRUE;THE EGYPTIAN EXCHANGE (EGX) LAUNCHED ON THURSDAY 3 JUNE 2010 THE FIRST TRADING SESSION IN THE NILE STOCK EXCHANGE (NILEX).
+143;Egypt;EG;XCAI;;Egyptian Exchange;CASE;Cairo;www.egyptse.com;Cairo;TRUE;CAIRO AND ALEXANDRIA STOCK EXCHANGES (CASE) HAVE BEEN RENAMED TO THE EGYPTIAN EXCHANGE.
+144;El Salvador;SV;XSVA;;El Salvador Stock Exchange;;El Salvador;www.bves.com.sv;El Salvador;TRUE;
+145;Estonia;EE;XTAL;;NASDAQ OMX Tallinn;;Tallinn;www.nasdaqomxbaltic.com;Tallinn;TRUE;
+146;Estonia;EE;FNEE;XTAL;First North Estonia;;Tallinn;firstnorth.nasdaqomxbaltic.com;Tallinn;TRUE;XTAA REPLACED BY FNEE.
+147;Faroe Islands;FO;VMFX;;The Faroese Securities Market;;Torshavn;www.vmf.fo;Torshavn;TRUE;THE FAROESE SECURITIES MARKET (VMF) IS THE STOCK EXCHANGE OF THE FAROE ISLANDS.
+148;Fiji;FJ;XSPS;;South Pacific Stock Exchange;SPSE;Suva;www.spse.com.fj;Suva;TRUE;
+149;Finland;FI;XHEL;;NASDAQ OMX Helsinki Ltd.;;Helsinki;www.omxnordicexchange.com;Helsinki;TRUE;
+150;Finland;FI;FNFI;XHEL;First North Finland;;Helsinki;www.omxnordicexchange.com/firstnorth;Helsinki;TRUE;
+151;France;FR;COAL;;La Cote Alpha;;Paris;www.cote-alpha.fr;Paris;TRUE;SOURCE OF PRICES FOR INVESTMENT FUNDS.
+152;France;FR;EPEX;;EPEX Spot SE;;Paris;www.epexspot.com;Paris;TRUE;EUROPEAN POWER EXCHANGE (DAY AHEAD AND INTRADAY MARKETS FOR ELECTRICITY IN CENTRAL EUROPE).
+153;France;FR;FMTS;;MTS France SAS;;Paris;www.mtsfrance.com;Paris;TRUE;
+154;France;FR;GMTF;;Galaxy;;Paris;www.tradingscreen.com;Paris;TRUE;MULTILATERAL TRADING FACILITY FOR EURO DENOMINATED GOVERNMENT AND CORPORATE BONDS.
+155;France;FR;XAFR;;Alternativa France;;Paris;www.alternativa.fr;Paris;TRUE;MULTILATERAL TRADING FACILITY FOR UNQUOTED STOCKS AND FUNDS.
+156;France;FR;XBLN;;BlueNext;;Paris;www.bluenext.eu;Paris;TRUE;BLUENEXT MTF HAS BECOME A REGULATED MARKET.
+157;France;FR;XPAR;;NYSE Euronext - Euronext Paris;;Paris;www.euronext.com;Paris;TRUE;
+158;France;FR;ALXP;XPAR;NYSE Euronext - Alternext Paris;;Paris;www.euronext.com;Paris;TRUE;
+159;France;FR;MTCH;XPAR;NYSE Bondmatch;;Paris;www.euronext.com;Paris;TRUE;FINANCIAL, CORPORATE AND COVERED BONDS TRADING PLATFORM FOR PROFESSIONAL INVESTORS.
+160;France;FR;XMAT;XPAR;Euronext Paris MATIF;;Paris;www.euronext.com;Paris;TRUE;
+161;France;FR;XMLI;XPAR;NYSE Euronext - Marche Libre Paris;;Paris;www.euronext.com;Paris;TRUE;
+162;France;FR;XMON;XPAR;Euronext Paris MONEP;;Paris;www.euronext.com;Paris;TRUE;
+163;France;FR;XPOW;;Powernext;;Paris;www.powernext.fr;Paris;TRUE;
+164;Georgia;GE;XGSE;;Georgia Stock Exchange;GSE;Tbilisi;www.gse.ge;Tbilisi;TRUE;
+165;Germany;DE;360T;;360T;;Frankfurt;www.360t.com;Frankfurt;TRUE;
+166;Germany;DE;CATS;;CATS;;Frankfurt;catsos.citigroup.com;Frankfurt;TRUE;ELECTRONIC TRADING PLATFORM FOR STRUCTURED PRODUCTS.
+167;Germany;DE;DBOX;;Deutsche Bank Off Exchange Trading;;Frankfurt;www.deutsche-bank.de;Frankfurt;TRUE;DEUTSCHE BANK AG ELECTRONIC OFF EXCHANGE TRADING PLATFORM.
+168;Germany;DE;EFTP;;Energiefinanz Trading Platform;HPF;Schwerin;www.energiefinanz.eu;Schwerin;TRUE;ELECTRONIC TRADING SYSTEM FOR SHORT TERM STANDARD PRODUCTS IN ELECTRICITY AND GAS
+169;Germany;DE;GMEX;;Greenmarket Exchange;;Muenchen;www.greenmarket-exchange.com;Muenchen;TRUE;
+170;Germany;DE;TGAT;;Tradegate Exchange;;Berlin;www.tradegate.de;Berlin;TRUE;
+171;Germany;DE;XGAT;TGAT;Tradegate Exchange - Freiverkehr;;Berlin;www.tradegate.de;Berlin;TRUE;
+172;Germany;DE;XGRM;TGAT;Tradegate Exchange - Regulierter Markt;;Berlin;www.tradegate.de;Berlin;TRUE;TRADEGATE EXCHANGE IS AN OFFICIAL REGULATED STOCK EXCHANGE IN BERLIN/GERMANY FOR SHARES, BONDS, ETFS AND FONDS.
+173;Germany;DE;XBER;;Boerse Berlin;;Berlin;www.boerse-berlin.de;Berlin;TRUE;
+174;Germany;DE;BERA;XBER;Boerse Berlin - Regulierter Markt;;Berlin;www.berlin-boerse.de;Berlin;TRUE;
+175;Germany;DE;BERB;XBER;Boerse Berlin - Freiverkehr;;Berlin;www.berlin-boerse.de;Berlin;TRUE;
+176;Germany;DE;BERC;XBER;Boerse Berlin - Berlin Second Regulated Market;;Berlin;www.berlin-boerse.de;Berlin;TRUE;
+177;Germany;DE;EQTA;XBER;Boerse Berlin Equiduct Trading - Regulierter Markt;;Berlin;www.equiduct-trading.de;Berlin;TRUE;ELECTRONIC TRADING SYSTEM.
+178;Germany;DE;EQTB;XBER;Boerse Berlin Equiduct Trading - Berlin Second Regulated Market;;Berlin;www.equiduct-trading.de;Berlin;TRUE;ELECTRONIC TRADING SYSTEM.
+179;Germany;DE;EQTC;XBER;Boerse Berlin Equiduct Trading - Freiverkehr;;Berlin;www.equiduct-trading.de;Berlin;TRUE;ELECTRONIC TRADING SYSTEM.
+180;Germany;DE;EQTD;XBER;Boerse Berlin Equiduct Trading - OTC;;Berlin;www.equiduct-trading.de;Berlin;TRUE;ELECTRONIC TRADING SYSTEM.
+181;Germany;DE;XEQT;XBER;Boerse Berlin Equiduct Trading;;Berlin;www.equiduct-trading.de;Berlin;TRUE;ELECTRONIC TRADING SYSTEM.
+182;Germany;DE;ZOBX;XBER;Zobex;ZOBEX;Berlin;www.boerse-berlin.de;Berlin;TRUE;
+183;Germany;DE;XDUS;;Boerse Duesseldorf;;Duesseldorf;www.boerse-duesseldorf.de;Duesseldorf;TRUE;
+184;Germany;DE;DUSA;XDUS;Boerse Duesseldorf - Regulierter Markt;;Duesseldorf;;Duesseldorf;TRUE;
+185;Germany;DE;DUSB;XDUS;Boerse Duesseldorf - Freiverkehr;;Duesseldorf;;Duesseldorf;TRUE;
+186;Germany;DE;DUSC;XDUS;Boerse Duesseldorf - Quotrix - Regulierter Markt;;Duesseldorf;;Duesseldorf;TRUE;
+187;Germany;DE;DUSD;XDUS;Boerse Duesseldorf - Quotrix MTF;;Duesseldorf;;Duesseldorf;TRUE;
+188;Germany;DE;XECB;;Ecb Exchange Rates;;Frankfurt;www.ecb.europa.eu;Frankfurt;TRUE;EURO FOREIGN EXCHANGE REFERENCE RATES.
+189;Germany;DE;XECC;;European Commodity Clearing AG;ECC;Leipzig;www.ecc.de;Leipzig;TRUE;
+190;Germany;DE;XEEE;;European Energy Exchange AG;;Frankfurt;www.eex.com;Frankfurt;TRUE;
+191;Germany;DE;XETI;;Xetra International Market;;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;"XETRA INTERNATIONAL, OPERATING LEVEL. TO BE  GLOBALLY USED FOR ORDERROUTING AND OTHER PURPOSES LIKE ""SCHLUßNOTEN"" (EXECUTIONS)."
+192;Germany;DE;XETC;XETI;Xetra International Market - Regulated Market;;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;XETRA INTERNATIONAL, MARKET SEGMENT REGULATED.
+193;Germany;DE;XETD;XETI;Xetra International Market - Open Market;;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;XETRA INTERNATIONAL, MARKET SEGMENT OPEN.
+194;Germany;DE;XEUM;;Eurex Repo Seclend Market;;Frankfurt;www.eurexrepo.com;Frankfurt;TRUE;ET IS NOW OPERATED FROM FRANKFURT (GERMANY)
+195;Germany;DE;XEUR;;Eurex Deutschland;;Frankfurt;www.eurexchange.com;Frankfurt;TRUE;
+196;Germany;DE;ECAG;XEUR;Eurex Clearing AG;;Frankfurt;www.eurexclearing.com;Frankfurt;TRUE;
+197;Germany;DE;XEUB;XEUR;Eurex Bonds;;Frankfurt;www.eurex-bonds.com;Frankfurt;TRUE;
+198;Germany;DE;XEUP;XEUR;Eurex Repo GmbH;;Frankfurt;www.eurexrepo.com;Frankfurt;TRUE;
+199;Germany;DE;XFRA;;Deutsche Boerse AG;;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;
+200;Germany;DE;AUTO;XFRA;Autobahn FX;;Frankfurt;www.autobahnfx.db.com;Frankfurt;TRUE;DEUTSCHE BANK'S ELECTRONIC PLATFORM FOR TRADING FOREIGN EXCHANGE AND PRECIOUS METALS.
+201;Germany;DE;FRAA;XFRA;Boerse Frankfurt - Regulierter Markt;;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;
+202;Germany;DE;FRAB;XFRA;Boerse Frankfurt - Freiverkehr;;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;
+203;Germany;DE;FRAD;XFRA;Deutsche Boerse Mid-Point Cross;DBMID;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;DARK POOL.
+204;Germany;DE;XDBC;XFRA;Deutsche Boerse AG - Customized Indices;;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;
+205;Germany;DE;XDBV;XFRA;Deutsche Boerse AG - Volatility Indices;;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;
+206;Germany;DE;XDBX;XFRA;Deutsche Boerse AG - Indices;;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;
+207;Germany;DE;XETA;XFRA;Xetra - Regulierter Markt;XETRA;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;
+208;Germany;DE;XETB;XFRA;Xetra - Freiverkehr;XETRA;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;
+209;Germany;DE;XETR;XFRA;Xetra;XETRA;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;
+210;Germany;DE;XNEW;XFRA;Newex;NEWEX;Frankfurt;www.newex.com;Frankfurt;TRUE;
+211;Germany;DE;XHAM;;Hanseatische Wertpapierboerse Hamburg;;Hamburg;www.boersenag.de;Hamburg;TRUE;
+212;Germany;DE;HAMA;XHAM;Boerse Hamburg - Regulierter Markt;;Hamburg;;Hamburg;TRUE;
+213;Germany;DE;HAMB;XHAM;Boerse Hamburg - Freiverkehr;;Hamburg;;Hamburg;TRUE;
+214;Germany;DE;XHAN;;Niedersaechsische Boerse zu Hannover;;Hannover;www.boersenag.de;Hannover;TRUE;
+215;Germany;DE;HANA;XHAN;Boerse Hannover - Regulierter Markt;;Hannover;;Hannover;TRUE;
+216;Germany;DE;HANB;XHAN;Boerse Hannover - Freiverkehr;;Hannover;;Hannover;TRUE;
+217;Germany;DE;XINV;;Investro;;Frankfurt;www.investro.de;Frankfurt;TRUE;SETTLEMENT PLATFORM FOR CSD AND NON CSD FUNDS.
+218;Germany;DE;XMUN;;Boerse Muenchen;;Muenchen;www.boerse-muenchen.de;Muenchen;TRUE;
+219;Germany;DE;MUNA;XMUN;Boerse Muenchen - Regulierter Markt;;Muenchen;;Muenchen;TRUE;
+220;Germany;DE;MUNB;XMUN;Boerse Muenchen - Freiverkehr;;Muenchen;;Muenchen;TRUE;
+221;Germany;DE;PLUS;XMUN;Boerse Muenchen - Freiverkher - Plus - Europe;;Muenchen;www.boerse-muenchen.de;Muenchen;TRUE;PAN-EUROPEAN EQUITY MARKET FOR SMALL AND MID-CAP COMPANIES
+222;Germany;DE;XSCO;;Scoach;;Frankfurt;www.scoach.de;Frankfurt;TRUE;
+223;Germany;DE;XSC1;XSCO;Scoach Europa International Market 1;;Frankfurt;www.scoach.de;Frankfurt;TRUE;MARKET FOR STRUCTURED PRODUCTS - COUNTRY SEGMENT 1.
+224;Germany;DE;XSC2;XSCO;Scoach Europa International Market 2;;Frankfurt;www.scoach.de;Frankfurt;TRUE;MARKET FOR STRUCTURED PRODUCTS - COUNTRY SEGMENT 2.
+225;Germany;DE;XSC3;XSCO;Scoach Europa International Market 3;;Frankfurt;www.scoach.de;Frankfurt;TRUE;MARKET FOR STRUKTURED PRODUCTS - COUNTRY SEGMENT 3.
+226;Germany;DE;XSTU;;Boerse Stuttgart;;Stuttgart;www.boerse-stuttgart.de;Stuttgart;TRUE;
+227;Germany;DE;EUWX;XSTU;Euwax;EUWAX;Stuttgart;www.euwax.de;Stuttgart;TRUE;
+228;Germany;DE;STUA;XSTU;Boerse Stuttgart - Regulierter Markt;;Stuttgart;www.boerse-stuttgart.de;Stuttgart;TRUE;
+229;Germany;DE;STUB;XSTU;Boerse Stuttgart - Freiverkehr;;Stuttgart;www.boerse-stuttgart.de;Stuttgart;TRUE;
+230;Germany;DE;XXSC;;Frankfurt CEF SC;;Frankfurt;www.deutsche-boerse.com;Frankfurt;TRUE;"XXSC WILL COMPRISE THE INFORMATION FOR ""FRAA"" AND ""FRAB"". QUOTE AND TRADE INFORMATION IS DISTRIBUTED VIA CEF (CONSOLIDATED EXCHANGE FEED), THEREFORE THE SHORT NAME ""FRANKFURT CEF SC"" REFERS TO CEF AND SC TO SCOACH."
+231;Ghana;GH;XGHA;;Ghana Stock Exchange;;Accra;www.gse.com.gh;Accra;TRUE;
+232;Greece;GR;ASEX;;Athens Stock Exchange;ASE;Athens;www.ase.gr;Athens;TRUE;
+233;Greece;GR;ENAX;ASEX;Athens Exchange Alternative Market;ENAX;Athens;www.athex.gr;Athens;TRUE;
+234;Greece;GR;EUAX;ASEX;Athens Exchange EUAs Market;;Athens;www.athex.gr/default_en.asp;Athens;TRUE;ELECTRONIC TRADING PLATFORM FOR EMISSION ALLOWANCES (EUAS).
+235;Greece;GR;HOTC;ASEX;Hellenic Exchange OTC Market;;Athens;www.ase.gr;Athens;TRUE;THE HELLENIC EXCHANGE OTC MARKET IS THE OVER-THE-COUNTER ELECTRONIC TRADING MARKET FOR ATHENS EXCHANGE
+236;Greece;GR;XADE;ASEX;Athens Exchange S.A. Derivatives Market;ATHEXD;Athens;www.athex.gr;Athens;TRUE;
+237;Greece;GR;XATH;ASEX;Athens Exchange S.A. Cash Market;ATHEXC;Athens;www.athex.gr;Athens;TRUE;
+238;Greece;GR;HDAT;;Electronic Secondary Securities Market (HDAT);HDAT;Athens;www.bankofgreece.gr;Athens;TRUE;
+239;Guatemala;GT;XGTG;;Bolsa de Valores Nacional SA;;Guatemala;www.bvnsa.com.gt;Guatemala;TRUE;
+240;Guernsey, C.I.;GG;XCIE;;Channel Islands Stock Exchange;CISX;St.  Peter Port;www.cisx.com;St.  Peter Port;TRUE;
+241;Guyana;GY;GSCI;;The Guyana Association of Securities Companies and Intermediaries Inc.;;Georgetown;www.gasci.com;Georgetown;TRUE;THIS COMPANY IS THE LOCAL STOCK EXCHANGE THAT ORGANISES AND SUPERVISES THE STOCK MARKET IN GUYANA.
+242;Honduras;HN;XBCV;;Bolsa Centroamericana de Valores S.A.;BCV;Tegucigalpa;www.bcv.hn;Tegucigalpa;TRUE;
+243;Hong Kong;HK;CGMH;;Citi Match HK;;Hong Kong;www.citigroup.com;Hong Kong;TRUE;
+244;Hong Kong;HK;DBHK;;Deutsche Bank Hong Kong ATS;;Hong Kong;www.db.com/hongkong/;Hong Kong;TRUE;ALTERNATIVE TRADING SYSTEM FOR TRADING ASIAN EXCHANGE TRADED EQUITY PRODUCTS.
+245;Hong Kong;HK;EOTC;;E-OTC;;Hong Kong;www.connected-markets.com;Hong Kong;TRUE;INTERNET-BASED BULLETIN BOARD FOR POSTING INDICATIONS OF INTEREST IN BUYING AND SELLING OTC DERIVATIVES, PRIMARILY FOCUSED ON CREDIT DEFAULT SWAPS.
+246;Hong Kong;HK;HKME;;Hong Kong Mercantile Exchange;HKMEX;Hong Kong;www.hkmerc.com;Hong Kong;TRUE;
+247;Hong Kong;HK;HSXA;;HSBC-X Hong Kong;;Hong Kong;www.hsbc.com.hk;Hong Kong;TRUE;TRADING PLATFORM WHICH IS SPECIFICALLY TRADING ASIA PACIFIC CASH EQUITIES WITH THE FOCUS OF HONG KONG CASH EQUITIES.
+248;Hong Kong;HK;MEHK;;Macquarie Execution (HK);;Hong Kong;www.macquarie.com;Hong Kong;TRUE;MACQUARIE CAPITAL SECURITIES DARK POOL FOR TRADING HK EQUITIES.
+249;Hong Kong;HK;TOCP;;Tora Crosspoint;;Hong Kong;www.tora.com;Hong Kong;TRUE;HK REGISTERED ATS FOR EQUITIES.
+250;Hong Kong;HK;UBSX;;UBS Cross;;Hong Kong;;Hong Kong;TRUE;HK, JAPAN AND AUSTRALIA.
+251;Hong Kong;HK;XCGS;;Chinese Gold & Silver Exchange Society;;Hong Kong;www.cgse.com.hk;Hong Kong;TRUE;
+252;Hong Kong;HK;XHKF;;Hong Kong Futures Exchange Ltd.;HKFE;Hong Kong;www.hkex.com.hk;Hong Kong;TRUE;
+253;Hong Kong;HK;XHKG;;Hong Kong Exchanges and Clearing Ltd;HKEX;Hong Kong;www.hkex.com.hk;Hong Kong;TRUE;HONG KONG EXCHANGES AND CLEARING LIMITED, OR HKEX, OPERATES A SECURITIES MARKET AND A DERIVATIVES MARKET IN HONG KONG AND THE CLEARING HOUSES FOR THOSE MARKETS.
+254;Hong Kong;HK;XGEM;XHKG;Hong Kong Growth Enterprises Market;HK GEM;Hong Kong;www.hkgem.com;Hong Kong;TRUE;
+255;Hong Kong;HK;XIHK;;Instinet Pacific Ltd;;Hong Kong;www.instinet.com;Hong Kong;TRUE;
+256;Hong Kong;HK;XPST;;Posit - Asia Pacific;;Hong Kong;www.itg.com;Hong Kong;TRUE;EQUITY CROSSING NETWORK.
+257;Hong-Kong;HK;SIGH;;Sigma X Hong-Kong;GSET;Hong-Kong;www.gset.gs.com;Hong-Kong;TRUE;
+258;Hungary;HU;BETA;;Beta Market;;Budapest;www.bse.hu;Budapest;TRUE;LAUNCHED IN NOVEMBER 2011,  MULTILATERAL TRADING FACILITY.
+259;Hungary;HU;HUPX;;Hungarian Power Exchange;HUPX;Budapest;www.hupx.hu;Budapest;TRUE;
+260;Hungary;HU;QMTF;;Quote MTF;;Budapest;www.quotemtf.com;Budapest;TRUE;MULTILATERAL TRADING FACILITY FOR EEA STOCKS - LIVE IN 1Q 2009
+261;Hungary;HU;XQLX;QMTF;QLX;;Budaors;www.quotemtf.com/qlx/;Budaors;TRUE;HYBRID MODEL MTF FOR PAN-EUROPEAN EQUITIES.
+262;Hungary;HU;XBUD;;Budapest Stock Exchange;;Budapest;www.bet.hu;Budapest;TRUE;
+263;Hungary;HU;XGAS;;Central Eastern European Gas Exchange Ltd Td;;Budapest;www.ceegex.com;Budapest;TRUE;CEEGEX IS A ORGANISED NATURAL GAS MARKET PROVIDING SERVICES FOR THE GAS MARKET PLAYERS WITHIN THE EUROPEAN ECONOMIC AREA (EEA).
+264;Iceland;IS;XICE;;NASDAQ OMX Iceland;ICEX;Reykjavik;www.nasdaqomxnordic.com;Reykjavik;TRUE;
+265;Iceland;IS;ISEC;XICE;First North Iceland;;Reykjavik;www.nasdaqomxnordic.com;Reykjavik;TRUE;
+266;India;IN;ACEX;;ACE Derivatives & Commodity Exchange Ltd;;Mumbai;www.aceindia.com;Mumbai;TRUE;DERIVATIVES EXCHANGE FOR COMMODITIES TRADING IN INDIA.
+267;India;IN;ICXL;;Indian Commodity Exchange Ltd.;;Mumbai;www.icexindia.com;Mumbai;TRUE;INDIAN COMMODITY EXCHANGE LTD IS A SCREEN BASED ON-LINE DERIVATIVES EXCHANGE FOR COMMODITIES.
+268;India;IN;ISEX;;Inter-connected Stock Exchange of India Ltd;ISE;Mumbai;www.iseindia.com;Mumbai;TRUE;
+269;India;IN;MCXX;;MCX Stock Exchange Ltd;;Mumbai;www.mcx-sx.com;Mumbai;TRUE;MCX STOCK EXCHANGE (MCX-SX), INDIA'S NEW STOCK EXCHANGE, WAS LAUNCHED ON OCTOBER 7, 2008, UNDER THE REGULATORY FRAMEWORK OF SECURITIES & EXCHANGE BOARD OF INDIA (SEBI).
+270;India;IN;NBOT;;National Board of Trade Limited;;Indore Madhya Pradesh;www.nbotind.org;Indore Madhya Pradesh;TRUE;COMMODITY FUTURES EXCHANGE
+271;India;IN;NMCE;;National Multi-Commodity Exchange of India;;Ahmedabad;www.nmce.com;Ahmedabad;TRUE;
+272;India;IN;OTCX;;OTC Exchange of India;OTCEI;Mumbai;www.otcei.net;Mumbai;TRUE;
+273;India;IN;PXIL;;Power Exchange India Ltd.;;Mumbai;www.powerexindia.com;Mumbai;TRUE;ELECTRONIC NATION-WIDE EXCHANGE FOR TRADING OF ELECTRICITY
+274;India;IN;XBAN;;Bangalore Stock Exchange Ltd;;Bangalore;www.bgse.co.in;Bangalore;TRUE;
+275;India;IN;XBOM;;BSE Ltd;MSE;Mumbai;www.bseindia.com;Mumbai;TRUE;
+276;India;IN;BSME;XBOM;BSE SME;BSE SME;Mumbai;www.bsesme.com;Mumbai;TRUE;BSE SME PLATFORM.
+277;India;IN;XCAL;;Calcutta Stock Exchange;;Calcutta;www.cse-india.com;Calcutta;TRUE;
+278;India;IN;XDES;;Delhi Stock Exchange;;Delhi;;Delhi;TRUE;
+279;India;IN;XIMC;;Multi Commodity Exchange of India Ltd.;MCX;Mumbai;www.mcxindia.com;Mumbai;TRUE;
+280;India;IN;XMDS;;Madras Stock Exchange;;Madras;;Madras;TRUE;
+281;India;IN;XNCD;;National Commodity & Derivatives Exchange Ltd;NCDEX;Mumbai;www.ncdex.com;Mumbai;TRUE;
+282;India;IN;XNSE;;National Stock Exchange of India;NSE;Mumbai;www.nseindia.com;Mumbai;TRUE;
+283;India;IN;XUSE;;United Stock Exchange;;Mumbai;www.useindia.com;Mumbai;TRUE;REGISTERED STOCK EXCHANGE WITH SECURITIES AND EXCHANGE BOARD OF INDIA FOR OFFERRING CURRENCY DERIVATIVES.
+284;Indonesia;ID;ICDX;;Indonesia Commodity and Derivatives Exchange;;Jakarta;www.icdexchange.com;Jakarta;TRUE;COMMODITY DERIVATIVES, INCLUDING THREE MAJOR GROUPS OF COMMODITIES: METALS, SOFT AGRICULTURAL PRODUCTS, AND ENERGY.
+285;Indonesia;ID;XBBJ;;Jakarta Futures Exchange (Bursa Berjangka Jakarta);BBJ;Jakarta;www.bbj-jfx.com;Jakarta;TRUE;
+286;Indonesia;ID;XIDX;;Indonesia Stock Exchange;IDX;Jakarta;www.idx.co.id;Jakarta;TRUE;THE JAKARTA (JSX) AND SURABAYA (SSX) STOCK EXCHANGES HAVE MERGED TO BECOME THE INDONESIA STOCK EXCHANGE (IDX).
+287;Indonesia;ID;XJNB;;Jakarta Negotiated Board;;Jakarta;;Jakarta;TRUE;
+288;Iran;IR;IMEX;;Iran Mercantile Exchange;;Tehran;www.ime.co.ir;Tehran;TRUE;COMMODITIES EXCHANGE.
+289;Iran;IR;XTEH;;Tehran Stock Exchange;TSE;Tehran;www.tse.ir;Tehran;TRUE;
+290;Iraq;IQ;XIQS;;Iraq Stock Exchange;ISX;Baghdad;www.isx-iq.net;Baghdad;TRUE;
+291;Ireland;IE;XPOS;ITGI;Posit;POSIT;Dublin;www.itg.com;Dublin;TRUE;
+292;Ireland;IE;XCDE;;Baxter Financial Services;;Dublin;www.baxter-fx.com;Dublin;TRUE;ELECTRONIC TRADING PLATFORM FOR CURRENCY FUTURES EFP'S AND OTC CURRENCY TRADING
+293;Ireland;IE;XDUB;;Irish Stock Exchange - All Market;ISE;Dublin;www.ise.ie;Dublin;TRUE;
+294;Ireland;IE;XESM;XDUB;Dublin - Irish Stock Exchange - Entreprise Securities Market (ESM)- ISE Xetra;ISE;Dublin;www.ise.ie;Dublin;TRUE;
+295;Ireland;IE;XEYE;XDUB;Irish Stock Exchange - GEM - Xetra;ISE XETRA;Dublin;www.ise.ie;Dublin;TRUE;DUBLIN - IRISH STOCK EXCHANGE - GLOBAL EXCHANGE MARKET (GEM)- ISE XETRA.
+296;Ireland;IE;XMSM;XDUB;Dublin - Irish Stock Exchange - Main Securities Market (MSM)- ISE Xetra;ISE;Dublin;www.ise.ie;Dublin;TRUE;
+297;Israel;IL;XTAE;;Tel Aviv Stock Exchange;TASE;Tel Aviv;www.tase.co.il;Tel Aviv;TRUE;
+298;Italy;IT;CGIT;;Cassa di Compensazione e Garanzia SpA;CC&G;Roma;www.ccg.it;Roma;TRUE;CENTRAL COUNTERPARTY ACROSS MULTIPLE TRADING VENUES COVERING A WIDE RANGE OF ASSET CLASSES
+299;Italy;IT;CGCM;CGIT;Cassa di Compensazione e Garanzia SpA - Collateralized Money Market Guarantee Service;NEWMIC;Roma;www.ccg.it;Roma;TRUE;COLLATERALIZED MONEY MARKET GUARANTEE SERVICE
+300;Italy;IT;CGDB;CGIT;Cassa di Compensazione e Garanzia SpA - Bonds CCP Service;CCGBONDS;Roma;www.ccg.it;Roma;TRUE;CCP SERVICE FOR GOVERNMENT BONDS, CORPORATE BONDS AND REPOS
+301;Italy;IT;CGEB;CGIT;Cassa di Compensazione e Garanzia SpA - Euro Bonds CCP Service;CCGEUROBONDS;Roma;www.ccg.it;Roma;TRUE;CCP SERVICE FOR EURO GOVERNMENT BONDS, EURO CORPORATE BONDS
+302;Italy;IT;CGGD;CGIT;Cassa di Compensazione e Garanzia SpA - CCP Agricultural Commodity Derivatives;CCGAGRIDER;Roma;www.ccg.it;Roma;TRUE;CCP SERVICE ON AGRICULTURAL COMMODITIES DERIVATIVES
+303;Italy;IT;CGND;CGIT;Cassa di Compensazione e Garanzia SpA - CCP Energy Derivatives;CCGENERGYDER;Roma;www.ccg.it;Roma;TRUE;CCP SERVICE ON ENERGY DERIVATIVES
+304;Italy;IT;CGQD;CGIT;Cassa di Compensazione e Garanzia SpA - CCP Equity Derivatives;CCGEQUITYDER;Roma;www.ccg.it;Roma;TRUE;CCP SERVICE ON EQUITY DERIVATIVES
+305;Italy;IT;CGQT;CGIT;Cassa di Compensazione e Garanzia SpA - Equity CCP Service;CCGEQUITY;Roma;www.ccg.it;Roma;TRUE;CCP SERVICE FOR EQUITIES AND COMPARABLE PRODUCTS SUCH WARRANTS, CONVERTIBLE BONDS, CLOSED-END FUNDS, INVESTMENT COMPANIES, REAL ESTATE INVESTMENT COMPANIES, ETF AND ETC
+306;Italy;IT;CGTR;CGIT;Cassa di Compensazione e Garanzia SpA - Triparty Repo CCP Service;CCGTRIPARTY;Roma;www.ccg.it;Roma;TRUE;CCP SERVICE FOR TRIPARTY REPOS
+307;Italy;IT;EMID;;e-MID;;Milano;www.e-mid.it;Milano;TRUE;MARKET FOR INTERBANK DEPOSITS IN EUROPE.
+308;Italy;IT;EMDR;EMID;e-MID - e-MIDER Market;;Milano;www.e-mid.it;Milano;TRUE;MARKET FOR THE TRADING OF MULTI-CURRENCY DERIVATIVE FINANCIAL INSTRUMENTS
+309;Italy;IT;EMIR;EMID;E-MID Repo;;Milano;www.e-mid.it;Milano;TRUE;ELECTRONIC TRADING PLATFORM FOR REPO TRADES.
+310;Italy;IT;ETLX;;EuroTLX;;Milano;www.eurotlx.com;Milano;TRUE;
+311;Italy;IT;HMTF;;Hi-MTF;;Milano;www.himtf.com;Milano;TRUE;
+312;Italy;IT;HMOD;HMTF;Hi-MTF Order Driven;;Milano;www.himtf.com;Milano;TRUE;MULTILATERAL TRADING FACILITY ORDER DRIVEN FOR EQUITIES AND BONDS
+313;Italy;IT;MTSC;;MTS S.P.A.;MTS ITALY;Roma;www.mtsspa.it;Roma;TRUE;
+314;Italy;IT;BOND;MTSC;Bondvision;;Roma;www.bondvision.net;Roma;TRUE;
+315;Italy;IT;MTSM;MTSC;MTS Corporate Market;MTS ITALY;Roma;www.mtsspa.it;Roma;TRUE;MTS S.P.A., A REGULATED MARKET, PROVIDES WHOLESALE ELECTRONIC TRADING OF ITALIAN GOVERNMENT BONDS AND OTHER TYPES OF FIXED INCOME SECURITIES
+316;Italy;IT;SSOB;MTSC;Bond Vision Corporate;;Roma;www.bondvision.net;Roma;TRUE;
+317;Italy;IT;XGME;;Gestore Mercato Elettrico - Italian Power Exchange;IPEX/GME;Roma;www.mercatoelettrico.org;Roma;TRUE;ITALIAN POWER EXCHANGE
+318;Italy;IT;XMIL;;Borsa Italiana S.P.A.;;Milano;www.borsaitaliana.it;Milano;TRUE;
+319;Italy;IT;ETFP;XMIL;Electronic Open-End Funds and ETC Market;ETFPLUS;Milano;www.borsaitaliana.it;Milano;TRUE;
+320;Italy;IT;MACX;XMIL;Mercato Alternativo del Capitale;MAC;Milano;www.borsaitaliana.it;Milano;TRUE;MERGE OF AIM ITALIA AND MAC, MAC WILL BE OPENED TILL END 2012. AFTER, XAIM WILL BE THE MIC TO USE.
+321;Italy;IT;MIVX;XMIL;Market for Investment Vehicules;MIV;Milano;www.borsaitaliana.it;Milano;TRUE;THE MIV, DEDICATED TO INVESTMENT VEHICLES, IS DIVIDED INTO THREE SEGMENTS: UNITS OF CLOSED-END FUNDS SEGMENT, INVESTMENT COMPANIES SEGMENT, REAL ESTATE INVESTMENT COMPANIES SEGMENT (REICS FROM THE EXPANDI MARKET).
+322;Italy;IT;MOTX;XMIL;Electronic Bond Market;MOT;Milano;www.borsaitaliana.it;Milano;TRUE;
+323;Italy;IT;MTAA;XMIL;Electronic Share Market;MTA;Milano;www.borsaitaliana.it;Milano;TRUE;
+324;Italy;IT;MTAH;XMIL;Borsa Italiana Trading After Hours;TAH;Milan;www.borsaitaliana.it;Milan;TRUE;
+325;Italy;IT;SEDX;XMIL;Securitised Derivatives Market;SEDEX;Milano;www.borsaitaliana.it;Milano;TRUE;
+326;Italy;IT;XAIM;XMIL;AIM Italia - Mercato Alternativo del Capitale;;Milano;www.borsaitaliana.it;Milano;TRUE;MULTILATERAL TRADING FACILITY - MERGE OF AIM ITALIA AND MAC, MAC WILL BE OPENED TILL END 2012.
+327;Italy;IT;XDMI;XMIL;Italian Derivatives Market;IDEM;Milano;www.borsaitaliana.it;Milano;TRUE;
+328;Italy;IT;XMOT;XMIL;Extramot;;Milano;www.borsaitaliana.it;Milano;TRUE;MTF OF BONDS MANAGED AND ORGANISED BY BORSA ITALIANA.
+329;Ivory Coast;CI;XBRV;;Bourse Regionale des Valeurs Mobilieres;BRVM;Abidjan;www.brvm.org;Abidjan;TRUE;
+330;Jamaica;JM;XJAM;;Jamaica Stock Exchange;;Kingston;www.jamstockex.com;Kingston;TRUE;
+331;Japan;JP;CHIJ;;Chi-X Japan;;Tokyo;www.chi-x.asia/apac/jp/eng;Tokyo;TRUE;MARKET FOR JAPANESE EQUITIES AND ETF, ELECTRONIC TRADING PLATFORM.
+332;Japan;JP;CITX;;Citi Match JP;;Tokyo;www.citigroupglobalmarkets.co.jp;Tokyo;TRUE;CITIMATCH PTS (PROPRIETARY TRADING SYSTEM) LICENSE IN JAPAN.
+333;Japan;JP;CITD;CITX;Citi Dark;;Tokyo;www.citivelocity.com;Tokyo;TRUE;DARK POOL.
+334;Japan;JP;DRCT;;Daiwa Drect;;Tokyo;www.daiwa-grp.jp;Tokyo;TRUE;DAIWA EQUITIES ELECTRONIC CROSSING PLATFORM
+335;Japan;JP;SBIJ;;SBI Japannext-J-Market;;Tokyo;www.japannext.co.jp;Tokyo;TRUE;
+336;Japan;JP;XSBI;SBIJ;SBI Japannext - X - Market;;Tokyo;www.japannext.co.jp;Tokyo;TRUE;
+337;Japan;JP;SIGJ;;Sigma X Japan;;Tokyo;www.gset.gs.com;Tokyo;TRUE;ALTERNATIVE TRADING SYSTEM (ATS)OPERATED BY GOLDMAN SACHS
+338;Japan;JP;XFKA;;Fukuoka Stock Exchange;;Fukuoka;www.fse.or.jp;Fukuoka;TRUE;
+339;Japan;JP;XIJP;;Instinet Japan;;Tokyo;www.instinet.com;Tokyo;TRUE;
+340;Japan;JP;JASR;XIJP;Japancrossing;;Tokyo;www.instinet.com;Tokyo;TRUE;
+341;Japan;JP;XJPX;;Japan Exchange Group;JPX;Tokyo;www.jpx.co.jp;Tokyo;TRUE;
+342;Japan;JP;XJAS;XJPX;Osaka Securities Exchange JASDAQ;JASDAQ;Osaka;www.ose.or.jp;Osaka;TRUE;MERGER OF OSE AND JASDAQ.
+343;Japan;JP;XOSE;XJPX;Osaka Securities Exchange;OSE;Osaka;www.ose.or.jp;Osaka;TRUE;
+344;Japan;JP;XOSJ;XJPX;Osaka Securities Exchange J-Net;J-NET;Osaka;www.ose.or.jp;Osaka;TRUE;
+345;Japan;JP;XTK1;XJPX;Tokyo Stock Exchange - Tostnet-1;;Tokyo;www.tse.or.jp;Tokyo;TRUE;
+346;Japan;JP;XTK2;XJPX;Tokyo Stock Exchange - Tostnet-2;;Tokyo;www.tse.or.jp;Tokyo;TRUE;
+347;Japan;JP;XTK3;XJPX;Tokyo Stock Exchange - Tostnet-3;;Tokyo;www.tse.or.jp;Tokyo;TRUE;TOKYO STOCK EXCHANGE'S TOSTNET-3 MARKET IS AN OFF-AUCTION MARKET DESIGNED FOR ISSUER'S SHARE BUYBACK.
+348;Japan;JP;XTKS;XJPX;Tokyo Stock Exchange;TSE;Tokyo;www.tse.or.jp;Tokyo;TRUE;
+349;Japan;JP;XKAC;;Kansai Commodities Exchange;KANEX;Osaka;www.kanex.or.jp;Osaka;TRUE;
+350;Japan;JP;XNGO;;Nagoya Stock Exchange;NSE;Nagoya;www.nse.or.jp;Nagoya;TRUE;
+351;Japan;JP;XNKS;;Central Japan Commodities Exchange;C-COM;Nagoya;www.c-com.or.jp;Nagoya;TRUE;
+352;Japan;JP;XSAP;;Sapporo Securities Exchange;;Sapporo;www.sse.or.jp;Sapporo;TRUE;
+353;Japan;JP;XTAM;;Tokyo Stock Exchange-Tokyo Pro Market;;Tokyo;www.tse.or.jp;Tokyo;TRUE;REGISTERED MARKET FOR EQUITIES IN JAPAN.
+354;Japan;JP;XTFF;;Tokyo Financial  Exchange;TFX;Tokyo;www.tfx.co.jp;Tokyo;TRUE;
+355;Japan;JP;XTKO;;Tokyo Grain Exchange;TGE;Tokyo;www.tge.or.jp;Tokyo;TRUE;
+356;Japan;JP;XTKT;;Tokyo Commodity Exchange;TOCOM;Tokyo;www.tocom.or.jp;Tokyo;TRUE;
+357;Jordan;JO;XAMM;;Amman Stock Exchange;ASE;Amman;www.ase.com.jo;Amman;TRUE;
+358;Kazakhstan;KZ;ETSC;;ETS Eurasian Trading System Commodity Exchange;;Almaty;www.ets.kz/en/;Almaty;TRUE;"THE REGIONAL FINANCIAL CENTRE OF ALMATY CITY (RFCA) AND OJSC ""RUSSIAN TRADING SYSTEM"" STOCK EXCHANGE HAVE SET UP A COMMODITY EXCHANGE, JSC ""EURASIAN TRADING SYSTEM"" HEADQUARTERED IN ALMATY, KAZAKHSTAN."
+359;Kazakhstan;KZ;XKAZ;;Kazakhstan Stock Exchange;KAZE;Alma-Ata;www.kase.kz;Alma-Ata;TRUE;
+360;Kenya;KE;XNAI;;Nairobi Stock Exchange;;Nairobi;www.nse.co.ke;Nairobi;TRUE;
+361;Korea, Republic of;KR;XKFB;;Korea Freeboard Market;;Seoul;www.ksda.or.kr/english/invest/otc_overview.cfm;Seoul;TRUE;FREEBOARD IS A NEW MARKET FOR COMPANIES LISTED, NEITHER ON THE STOCK MARKET DIVISION NOR ON THE KOSDAQ MARKET DIVISION OF KRX.
+362;Korea, Republic of;KR;XKON;;Korea New Exchange;KONEX;Seoul;;Seoul;TRUE;KOREA THIRD OFFICIAL EXCHANGE - LAUNCH DATE: JULY 1ST 2013
+363;Korea, Republic of;KR;XKOS;;Korea Exchange (KOSDAQ);KOSDAQ;Seoul;eng.krx.co.kr;Seoul;TRUE;
+364;Korea, Republic of;KR;XKFE;XKOS;Korea Exchange (Futures Market);KRX FM;Seoul;eng.krx.co.kr;Seoul;TRUE;
+365;Korea, Republic of;KR;XKRX;XKOS;Korea Exchange (Stock Market);KRX SM;Seoul;eng.krx.co.kr;Seoul;TRUE;
+366;Kuwait;KW;XKUW;;Kuwait Stock Exchange;;Kuwait;www.kuwaitse.com;Kuwait;TRUE;
+367;Kyrgyzstan;KG;XKSE;;Kyrgyz Stock Exchange;KSE;Bishkek;www.kse.kg;Bishkek;TRUE;
+368;Laos;LA;XLAO;;Lao Securities Exchange;LSX;Lao;www.lsx.com.la;Lao;TRUE;
+369;Latvia;LV;XRIS;;NASDAQ OMX Riga;;Riga;www.nasdaqomxbaltic.com;Riga;TRUE;
+370;Latvia;LV;FNLV;XRIS;First North Latvia;;Riga;firstnorth.nasdaqomxbaltic.com;Riga;TRUE;
+371;Lebanon;LB;XBEY;;Bourse de Beyrouth - Beirut Stock Exchange;BSE;Beirut;www.bse.com.lb;Beirut;TRUE;
+372;Libyan Arab Jamahiriya;LY;XLSM;;Libyan Stock Market;;Tripoli;www.lsm.gov.ly;Tripoli;TRUE;REGISTERED MARKET FOR 7 EQUITIES
+373;Lithuania;LT;BAPX;;Baltpool;;Vilnius;www.baltpool.lt;Vilnius;TRUE;BALTPOOL UAB IS THE ELECTRICITY MARKET OPERATOR OF LITHUANIA.
+374;Lithuania;LT;NASB;;NASDAQ OMX Baltic;;Vilnius;www.nasdaqomxbaltic.com;Vilnius;TRUE;MULTILATERAL TRADING FACILITY (MTF) FOR TRADING IN SECURITIES OF BALTIC COUNTRIES.
+375;Lithuania;LT;XLIT;;NASDAQ OMX Vilnius;;Vilnius;www.nasdaqomxbaltic.com;Vilnius;TRUE;
+376;Lithuania;LT;FNLT;XLIT;First North Lithuania;;Vilnius;firstnorth.nasdaqomxbaltic.com;Vilnius;TRUE;
+377;Luxembourg;LU;CCLX;;Finesti S.A.;CCLUX;Luxembourg;www.cclux.lu;Luxembourg;TRUE;CENTRALE DE COMMUNICATIONS LUXEMBOURG S.A. (CCLUX) CHANGED ITS NAME TO FINESTI S.A.
+378;Luxembourg;LU;XLUX;;Luxembourg Stock Exchange;;Luxembourg;www.bourse.lu;Luxembourg;TRUE;
+379;Luxembourg;LU;EMTF;XLUX;Euro MTF;;Luxembourg;www.bourse.lu;Luxembourg;TRUE;
+380;Luxembourg;LU;XVES;;Vestima+;;Luxembourg;www.clearstream.com;Luxembourg;TRUE;
+381;Macedonia;MK;XMAE;;Macedonian Stock Exchange;;Skopje;www.mse.org.mk;Skopje;TRUE;
+382;Madagascar;MG;XMDG;;Marche Interbancaire des Devises M.I.D.;;Antananarivo;;Antananarivo;TRUE;
+383;Malawi;MW;XMSW;;Malawi Stock Exchange;;Blantyre;www.mse.co.mw;Blantyre;TRUE;
+384;Malaysia;MY;XKLS;;Bursa Malaysia;;Kuala Lumpur;www.bursamalaysia.com;Kuala Lumpur;TRUE;
+385;Malaysia;MY;MESQ;XKLS;ACE Market;;Kuala Lumpur;www.bursamalaysia.com;Kuala Lumpur;TRUE;THE MESDAQ IS DESIGNED FOR HIGH-GROWTH COMPANIES AND TECHNOLOGY INTENSIVE INDUSTRIES.
+386;Malaysia;MY;XLFX;;Labuan International Financial Exchange;LFX;Labuan;lfxsys.lfx.com.my;Labuan;TRUE;
+387;Malaysia;MY;XRBM;;Ringgit Bond Market;RBM;Kuala Lumpur;www.bondinfo.bnm.gov.my;Kuala Lumpur;TRUE;
+388;Maldives;MV;MALX;;Maldives Stock Exchange;;Male;www.mse.com.mv;Male;TRUE;REGISTERED MARKET FOR EQUITIES.
+389;Malta;MT;EWSM;;European Wholesale Securities Market;;Valletta;www.ewsm.eu;Valletta;TRUE;
+390;Malta;MT;XMAL;;Malta Stock Exchange;;Valletta;www.borzamalta.com.mt;Valletta;TRUE;
+391;Mauritius;MU;GBOT;;Global Board of Trade Ltd;;Ebene;www.gbot.mu;Ebene;TRUE;MULTI-ASSET CLASS EXCHANGE PROVIDING AN ELECTRONIC PLATFORM FOR TRADING ON COMMODITY DERIVATIVES, CURRENCY DERIVATIVES, EQUITY,  EQUITY DERIVATIVES AND BONDS.
+392;Mauritius;MU;XMAU;;Stock Exchange of Mauritius Ltd;;Port Louis;www.stockexchangeofmauritius.com;Port Louis;TRUE;
+393;Mexico;MX;CGMX;;Citi Match MX;;Mexico;www.citigroup.com;Mexico;TRUE;CITI MATCH MEXICO
+394;Mexico;MX;XEMD;;Mercado Mexicano de Derivados;MEXDER;Mexico;www.mexder.com.mx;Mexico;TRUE;
+395;Mexico;MX;XMEX;;Bolsa Mexicana de Valores (Mexican Stock Exchange);;Mexico;www.bmv.com.mx;Mexico;TRUE;
+396;Moldova, Republic of;MD;XMOL;;Moldova Stock Exchange;;Chisinau;www.moldse.md;Chisinau;TRUE;
+397;Mongolia;MN;XULA;;Mongolian Stock Exchange;;Ulaan Baatar;www.mse.mn;Ulaan Baatar;TRUE;
+398;Montenegro, Republic of;ME;XMNX;;Montenegro Stock Exchange;;Montenegro;www.montenegroberza.com;Montenegro;TRUE;
+399;Morocco;MA;XCAS;;Casablanca Stock Exchange;;Casablanca;www.casablanca-bourse.com;Casablanca;TRUE;
+400;Mozambique;MZ;XMAP;;Maputo Stock  Exchange;;Maputo;;Maputo;TRUE;
+401;Namibia;NA;XNAM;;Namibian Stock Exchange;;Windhoek;www.nsx.com.na;Windhoek;TRUE;
+402;Nepal;NP;XNEP;;Nepal Stock Exchange;;Kathmandu;www.nepalstock.com;Kathmandu;TRUE;
+403;New Zealand;NZ;NZFX;;New Zealand Futures & Options;NZFOX;Auckland;www.nzfox.nzx.com;Auckland;TRUE;
+404;New Zealand;NZ;XNZE;;New Zealand Exchange Ltd;NZX;Wellington;www.nzx.com;Wellington;TRUE;
+405;Nicaragua;NI;XMAN;;Bolsa de Valores de Nicaragua;;Managua;www.bolsanic.com;Managua;TRUE;
+406;Nigeria;NG;XNSA;;Nigerian Stock Exchange;;Lagos;www.nigerianstockexchange.com;Lagos;TRUE;
+407;Norway;NO;FISH;;Fish Pool ASA;;Bergen;www.fishpool.eu;Bergen;TRUE;
+408;Norway;NO;FSHX;;FishEx;;Tromso;www.fishex.no;Tromso;TRUE;
+409;Norway;NO;ICAS;;ICAP Energy AS;;Bergen;www.icapenergy.com/eu;Bergen;TRUE;MTF - ELECTRONIC TRADING PLATFORM FOR OTC DERIVATIVES
+410;Norway;NO;NOPS;;Nord Pool Spot AS;;Trondheim;www.nordpoolspot.com;Trondheim;TRUE;NORD POOL SPOT AS ENERGY EXCHANGE FOR NORDIC PHYSICAL MARKETS.
+411;Norway;NO;NORX;;NASDAQ OMX Commodities;;Oslo;www.nasdaqomxcommodities.com;Oslo;TRUE;NASDAQ OMX COMMODITIES IS RESPONSIBLE FOR THE INTERNATIONAL DERIVATIVE AND CARBON PRODUCTS OFFERING, AND ALSO OPERATES THE CLEARING BUSINESS AND OFFERS CONSULTING SERVICES TO COMMODITIES MARKETS GLOBALLY.
+412;Norway;NO;NOTC;;Norwegian Over the Counter Market;NOTC;Oslo;www.nfmf.no;Oslo;TRUE;
+413;Norway;NO;XIMA;;International Martime Exchange;IMAREX;Oslo;www.imarex.com;Oslo;TRUE;
+414;Norway;NO;XOSL;;Oslo Bors ASA;;Oslo;www.oslobors.no;Oslo;TRUE;
+415;Norway;NO;BURG;XOSL;Burgundy Nordic MTF;;Oslo;www.oslobors.no;Oslo;TRUE;MULTILATERAL TRADING PLATFORM, NORDIC SECURITIES
+416;Norway;NO;BURM;XOSL;Burgundy Regulated Market;;Oslo;www.oslobors.no;Oslo;TRUE;REGULATED MARKET FOR WARRANTS, CERTIFICATES, STRUCTURED PRODUCTS AND ETFS.
+417;Norway;NO;XOAM;XOSL;Nordic Alternative Bond Market;ABM;Oslo;www.nordicabm.no;Oslo;TRUE;NORDIC MARKETPLACE FOR LISTING OF BONDS
+418;Norway;NO;XOAS;XOSL;Oslo Axess;;Oslo;www.oslobors.no;Oslo;TRUE;
+419;Norway;NO;XOSC;XOSL;Oslo Connect;;Oslo;www.oslobors.no;Oslo;TRUE;MULTILATERAL TRADING FACILITY FOR FINANCIAL INSTRUMENTS
+420;Oman;OM;XMUS;;Muscat Securities Market;MSM;Muscat;www.msm.gov.om;Muscat;TRUE;
+421;Pakistan;PK;NCEL;;National Commodity Exchange Limited;NCEL;Karachi;www.ncel.com.pk;Karachi;TRUE;REGISTERED FOR LISTED DERIVATIVES (OPTIONS AND FUTURES) TRADING
+422;Pakistan;PK;XISL;;Islamabad Stock Exchange;ISE;Islamabad;www.ise.com.pk;Islamabad;TRUE;
+423;Pakistan;PK;XKAR;;Karachi Stock Exchange (Guarantee) Limited;KSE;Karachi;www.kse.com.pk;Karachi;TRUE;
+424;Pakistan;PK;XLAH;;Lahore Stock Exchange;LSE;Lahore;www.lahorestock.com;Lahore;TRUE;
+425;Palestinian Territory, Occupied;PS;XPAE;;Palestine Exchange;PEX;Nablus;www.p-s-e.com;Nablus;TRUE;
+426;Panama;PA;XPTY;;Bolsa de Valores de Panama, S.A.;BVP;Panama;www.panabolsa.com;Panama;TRUE;
+427;Papua New Guinea;PG;XPOM;;Port Moresby Stock Exchange;;Port Moresby;www.pomsox.com.pg;Port Moresby;TRUE;
+428;Paraguay;PY;XVPA;;Bolsa de Valores y Productos de Asuncion SA;BVPASA;Asuncion;www.bvpasa.com.py;Asuncion;TRUE;
+429;Peru;PE;XLIM;;Bolsa de Valores de Lima;BVL;Lima;www.bvl.com.pe;Lima;TRUE;
+430;Philippines;PH;PDEX;;Philippine Dealing and Exchange Corp;;Makati City;www.pdex.com.ph;Makati City;TRUE;PDEX PROVIDES A CENTRALIZED INFRASTRUCTURE FOR TRADING SECURITIES.
+431;Philippines;PH;XPHS;;Philippine Stock Exchange, Inc.;PSE;Pasig City;www.pse.com.ph;Pasig City;TRUE;
+432;Poland;PL;XWAR;;Warsaw Stock Exchange/Equities/Main Market;WSE;Warszawa;www.gpw.pl;Warszawa;TRUE;
+433;Poland;PL;BOSP;XWAR;Warsaw Stock Exchange/Bonds/Catalyst/Bondspot/MTF;;Warszawa;www.bondspot.pl;Warszawa;TRUE;MULTILATERAL TRADING FACILITIES FOR DEBT INSTRUMENTS.
+434;Poland;PL;PLPX;XWAR;Warsaw Stock Exchange/Commodities/Polish Power Exchange/Energy Market;;Warszawa;www.polpx.pl;Warszawa;TRUE;
+435;Poland;PL;POEE;XWAR;Warsaw Stock Exchange/Energy Market/Poee;;Warszawa;www.poee.gpw.pl;Warszawa;TRUE;ENERGY MARKT OF THE WARSAW STOCK EXCHANGE
+436;Poland;PL;RPWC;XWAR;Warsaw Stock Exchange/Bonds/Catalyst/Bondspot/Regulated Market;;Warszawa;www.bondspot.pl;Warszawa;TRUE;
+437;Poland;PL;TBSP;XWAR;Warsaw Stock Exchange/Bonds/Bondspot/Treasury Bond Market;;Warszawa;www.bondspot.pl;Warszawa;TRUE;CHANGES IN BONDSPOT OWNERSHIP STRUCTURE. THEY ARE NO LONGER IN MTS GROUP.
+438;Poland;PL;WBCL;XWAR;Warsaw Stock Exchange/Bonds/Catalyst/Listing;;Warszawa;www.gpwcatalyst.pl;Warszawa;TRUE;
+439;Poland;PL;WBON;XWAR;Warsaw Stock Exchange/ Bonds/Catalyst/Main Market;;Warszaw;www.gpwcatalyst.pl;Warszaw;TRUE;
+440;Poland;PL;WCDE;XWAR;Warsaw Stock Exchange/Commodity Derivatives;;Warszaw;www.pochodne.gpw.pl;Warszaw;TRUE;
+441;Poland;PL;WDER;XWAR;Warsaw Stock Exchange/Financial Derivatives;;Warszawa;www.pochodne.gpw.pl;Warszawa;TRUE;
+442;Poland;PL;WETP;XWAR;Warsaw Stock Exchange/ ETPs;;Warszaw;www.gpw.pl;Warszaw;TRUE;
+443;Poland;PL;WGAS;XWAR;Warsaw Stock Exchange/Commodities/Polish Power Exchange/Gas;;Warszaw;www.polpx.pl;Warszaw;TRUE;
+444;Poland;PL;WIND;XWAR;Warsaw Stock Exchange/Indices;;Warszaw;www.gpw.pl;Warszaw;TRUE;
+445;Poland;PL;WMTF;XWAR;Warsaw Stock Exchange/Bonds/Catalyst/MTF;;Warszaw;www.gpwcatalyst.pl;Warszaw;TRUE;
+446;Poland;PL;XNCO;XWAR;Warsaw Stock Exchange/ Equities/New Connect-MTF;;Warszawa;www.newconnect.pl;Warszawa;TRUE;MARKET FINANCING THE GROWTH OF YOUNG COMPANIES WITH A LARGE GROWTH POTENTIAL, ORGANISED AND OPERATED BY THE WSE
+447;Portugal;PT;MDIP;;MEDIP  (MTS Portugal SGMR, SA);MEDIP;Lisboa;www.mtsportugal.com;Lisboa;TRUE;
+448;Portugal;PT;OMIC;;The Iberian Energy Clearing House;OMICLEAR;Lisboa;www.omiclear.pt;Lisboa;TRUE;REGISTERED CLEARING HOUSE ACTING AS CENTRAL COUNTERPARTY FOR EXCHANGE AND OTC DERIVATIVES
+449;Portugal;PT;OPEX;;Pex-Private Exchange;OPEX;Lisboa;www.opex.pt;Lisboa;TRUE;
+450;Portugal;PT;XLIS;;NYSE Euronext - Euronext Lisbon;;Lisboa;www.euronext.com;Lisboa;TRUE;
+451;Portugal;PT;ALXL;XLIS;NYSE Euronext - Alternext Lisbon;;Lisbon;www.euronext.com;Lisbon;TRUE;ALTERNEXT IS THE NAME OF A MARKET (MTF) ORGANISED IN PORTUGAL BY EURONEXT LISBON, SOCIEDADE GESTORA DE MERCADOS REGULAMENTADOS, S.A.
+452;Portugal;PT;ENXL;XLIS;NYSE Euronext - Easynext Lisbon;;Lisboa;www.euronext.com;Lisboa;TRUE;
+453;Portugal;PT;MFOX;XLIS;NYSE Euronext - Mercado de Futuros e Opções;;Lisboa;www.euronext.com;Lisboa;TRUE;
+454;Portugal;PT;OMIP;XLIS;Operador de Mercado Iberico de Energia - Portugal;OMIP;Lisboa;www.omip.pt;Lisboa;TRUE;
+455;Portugal;PT;WQXL;XLIS;NYSE Euronext - Market without Quotations Lisbon;;Lisboa;www.euronext.com;Lisboa;TRUE;
+456;Qatar;QA;DSMD;;Qatar Exchange;DSM;Doha;www.qatarexchange.qa;Doha;TRUE;DOHA SECURITIES MARKET CHANGED TO QATAR EXCHANGE.
+457;Republic of Seychelles;SC;TRPX;;Trop-X;;Eden Island;www.trop-x.com;Eden Island;TRUE;SECURITIES EXCHANGE OFFERING AFRICA FOCUSED LICENSED AND REGULATED MULTI-ASSET, MULTI-CURRENCY LISTED SECURITIES EXCHANGE INCLUDING EQUITIES (VCAP, SME AND MAIN BOARDS), ETFS, DERIVATIVES (CFDS, FX, FUTURES AND OPTIONS), COMMODITIES AND BONDS BOARDS.
+458;Romania;RO;BMFX;;Sibiu Monetary- Financial and Commodities Exchange;;Sibiu;www.sibex.ro;Sibiu;TRUE;THE SIBIU MONETARY FINANCIAL AND COMMODITIES EXCHANGE (BURSA MONETAR FINANCIARÃ ŞI DE MÃRFURI SIBIU OR BMFMS IN ROMANIAN) IS ROMANIA'S SECOND LARGEST FINANCIAL MARKET.
+459;Romania;RO;BMFA;BMFX;BMFMS-ATS;;Sibiu;www.sibex.ro;Sibiu;TRUE;ALTERNATIVE TRADING SYSTEM FOR EQUITIES.
+460;Romania;RO;BMFM;BMFX;Derivatives Regulated Market - BMFMS;BMFMS;Sibiu;www.sibex.ro;Sibiu;TRUE;
+461;Romania;RO;SBMF;BMFX;Spot Regulated Market - BMFMS;;Sibiu;www.sibex.ro;Sibiu;TRUE;
+462;Romania;RO;XBRM;;Romanian  Commodities Exchange;BRM;Bucharest;www.brm.ro;Bucharest;TRUE;
+463;Romania;RO;XBSE;;Spot Regulated Market - BVB;REGS;Bucharest;www.bvb.ro;Bucharest;TRUE;
+464;Romania;RO;XBSD;XBSE;Derivatives Regulated Market - BVB;REGF;Bucharest;www.bvb.ro;Bucharest;TRUE;
+465;Romania;RO;XCAN;XBSE;CAN-ATS;;Bucharest;www.bvb.ro;Bucharest;TRUE;"THE ALTERNATIVE TRADING SYSTEM - ""CAN-ATS"" ( NEW COMPANIES & EQUITIES) OFFER ACCESS TO TRADING FOR NEWLY SET-UP BUSINESSES AS WELL AS FOR OTHER COMPANIES THAT CANNOT BE TRADED ON THE REGULATED MARKET OF BUCHAREST STOCK EXCHANGE."
+466;Romania;RO;XRAS;XBSE;RASDAQ;RASDAQ;Bucharest;www.bvb.ro;Bucharest;TRUE;
+467;Romania;RO;XRPM;;Romanian Power Market;;Bucharest;www.opcom.ro;Bucharest;TRUE;ROMANIAN POWER MARKET OPERATOR (OPCOM).
+468;Russia;RU;MISX;;Moscow Exchange;MICEX SE;Moscow;www.micex.com;Moscow;TRUE;FORMED EXCHANGE AFTER THE MERGER OF RTS CASH EQUITIES MARKET AND MICEX STOCK EXCHANGE.
+469;Russia;RU;NAMX;;National Mercantile Exchange;NAMEX;Moscow;www.namex.org;Moscow;TRUE;ORGANIZING AND CONDUCTING TRADING OF THE FUTURES CONTRACTS ON THE COMMODITY SESSION.
+470;Russia;RU;RPDX;;Moscow Energy Exchange;MOSENEX;Moscow;www.mosenex.ru;Moscow;TRUE;RUSSIAN POWER DERIVATIVES EXCHANGE.
+471;Russia;RU;RTSX;;Standard-Classica-Forts;RTS;Moscow;www.rts.ru;Moscow;TRUE;RTS MARKET
+472;Russia;RU;SPIM;;St. Petersburg International Mercantile Exchange;SPIMEX;Saint-Petersburg;www.s-pimex.ru;Saint-Petersburg;TRUE;REGISTERD COMMODITIES MARKET - OIL.
+473;Russia;RU;XMOS;;Moscow Stock Exchange;MSE;Moscow;www.mse.ru;Moscow;TRUE;
+474;Russia;RU;XPET;;Saint Petersburg Exchange;SPEX;Saint-Petersburg;www.spbex.ru;Saint-Petersburg;TRUE;
+475;Russia;RU;XPIC;;Saint-Petersburg Currency Exchange;SPCEX;Saint-Petersburg;www.spcex.ru;Saint-Petersburg;TRUE;
+476;Russia;RU;XRUS;;Internet Direct-Access Exchange;INDX;Moscow;www.indx.ru;Moscow;TRUE;
+477;Russia;RU;XSAM;;Samara Currency Interbank Exchange;SCIEX;Samara;www.sciex.ru;Samara;TRUE;
+478;Russia;RU;XSIB;;Siberian Exchange;SIMEX;Novosibirsk;www.sibex.ru;Novosibirsk;TRUE;
+479;Rwanda;RW;ROTC;;Rwanda OTC Market;RSE;Kigali;www.rse.rw;Kigali;TRUE;
+480;Rwanda;RW;RSEX;;Rwanda Stock Exchange;RSE;Kigali;www.rse.rw;Kigali;TRUE;PRINCIPAL STOCK MARKET FOR EQUITY AND BONDS.
+481;Saint Kitts and Nevis;KN;XECS;;Eastern Caribbean Securities Exchange;ECSE;Basseterre;www.ecseonline.com;Basseterre;TRUE;
+482;Saudi Arabia;SA;XSAU;;Saudi Stock Exchange;;Riyadh;www.tadawul.com.sa;Riyadh;TRUE;
+483;Serbia (Republic of);RS;XBEL;;Belgrade Stock Exchange;;Belgrade;www.belex.rs;Belgrade;TRUE;
+484;Singapore;SG;CLTD;;Cleartrade Exchange;CLTX;Singapore;www.thecleartrade.com;Singapore;TRUE;FULLY INTEGRATED FUTURES EXECUTION PLATFORM REGULATED BY THE MONETARY AUTHORITY OF SINGAPORE AS A RMO). IT ALSO  OFFERS AN ELECTRONIC TRADING PLATFORM FOR OTC CLEARED COMMODITY SWAPS WHICH IS FULLY INTEGRATED TO PARTNER CLEARING HOUSES
+485;Singapore;SG;JADX;;Joint Asian Derivatives Exchange;;Singapore;www.jadeexchange.com;Singapore;TRUE;
+486;Singapore;SG;SMEX;;Singapore Mercantile Exchange PTE Ltd;;Singapore;www.smx.com.sg;Singapore;TRUE;SMX IS ASIA'S FIRST MULTI-PRODUCT GLOBAL COMMODITY DERIVATIVES EXCHANGE.
+487;Singapore;SG;TFSA;;TFS Green Australian Green Markets;TFS;Singapore;www.tradition.com;Singapore;TRUE;
+488;Singapore;SG;XSCE;;Singapore Commodity Exchange;SICOM;Singapore;www.sicom.com.sg;Singapore;TRUE;
+489;Singapore;SG;XSES;;Singapore Exchange;SGX;Singapore;www.sgx.com;Singapore;TRUE;
+490;Singapore;SG;XSCA;XSES;Singapore Catalist Market;;Singapore;www.sgxcatalist.com;Singapore;TRUE;SPONSOR-SUPERVISED MARKET MODEL.
+491;Singapore;SG;XSCL;XSES;Singapore Central Limit Order Book International;;Singapore;www.sgx.com;Singapore;TRUE;CENTRAL LIMIT ORDER BOOK (CLOB) MARKET.
+492;Singapore;SG;XSIM;XSES;Singapore Exchange Derivatives Clearing Limited;SGX-DT;Singapore;www.sgx.com;Singapore;TRUE;
+493;Slovakia;SK;XBRA;;Bratislava Stock Exchange;BSSE;Bratislava;www.bsse.sk;Bratislava;TRUE;
+494;Slovenia;SI;XLJU;;Ljubljana Stock Exchange (Official Market);;Ljubljana;www.ljse.si;Ljubljana;TRUE;
+495;Slovenia;SI;XSOP;;BSP Regional Energy Exchange - South Pool;;Ljubljana;www.bsp-southpool.com;Ljubljana;TRUE;
+496;South Africa;ZA;XJSE;;Johannesburg Stock Exchange;JSE;Johannesburg;www.jse.co.za;Johannesburg;TRUE;
+497;South Africa;ZA;ALTX;XJSE;Alternative Exchange;ALTX;Johannesburg;www.jse.co.za/markets/altx.aspx;Johannesburg;TRUE;
+498;South Africa;ZA;XBES;XJSE;JSE - Former BESA;BESA;Johannesburg;www.jse.co.za;Johannesburg;TRUE;JSE – FORMER BOND EXCHANGE OF SOUTH AFRICA.
+499;South Africa;ZA;XSAF;XJSE;South African Futures Exchange;SAFEX;Johannesburg;www.safex.co.za;Johannesburg;TRUE;
+500;South Africa;ZA;XSFA;XJSE;South African Futures Exchange - Agricultural Market Division;SAFEX;Johannesburg;www.safex.co.za;Johannesburg;TRUE;
+501;South Africa;ZA;YLDX;XJSE;JSE Yield-X;;Johannesburg;www.yieldx.co.za;Johannesburg;TRUE;
+502;Spain;ES;BMEX;;BME - Bolsas y Mercados Espanoles;BME;Madrid;www.bolsasymercados.es;Madrid;TRUE;
+503;Spain;ES;MABX;BMEX;Mercado Alternativo Bursatil;MAB;Madrid;www.bolsasymercados.es;Madrid;TRUE;
+504;Spain;ES;MERF;BMEX;MERF - Mercado Electronico de Renta Fija;MERF;Madrid;www.aiaf.es;Madrid;TRUE;REGISTERED MARKET FOR BONDS ELECTRONIC TRADING PLATFORM.
+505;Spain;ES;SEND;BMEX;SEND - Sistema Electronico de Negociacion de Deuda;;Madrid;www.aiaf.es;Madrid;TRUE;SEND IS AN ELECTRONIC TRADING PLATFORM, DEVELOPED BY AIAF MERCADO DE RENTA FIJA, DESIGNED FOR THE TRADING OF RETAIL DISTRIBUTED FIXED INCOME SECURITIES LISTED IN THIS MARKET.
+506;Spain;ES;XBAR;BMEX;Bolsa de Barcelona;;Barcelona;www.borsabcn.es;Barcelona;TRUE;
+507;Spain;ES;XBIL;BMEX;Bolsa de Valores de Bilbao;;Bilbao;www.bolsabilbao.es;Bilbao;TRUE;
+508;Spain;ES;XDRF;BMEX;AIAF - Mercado de Renta Fija;;Madrid;www.aiaf.es;Madrid;TRUE;
+509;Spain;ES;XLAT;BMEX;Latibex;;Madrid;www.latibex.com;Madrid;TRUE;
+510;Spain;ES;XMAD;BMEX;Bolsa de Madrid;;Madrid;www.bolsamadrid.es;Madrid;TRUE;
+511;Spain;ES;XMCE;BMEX;Mercado Continuo Espanol - Continuous Market;SIBE;Madrid;www.bolsasymercados.es;Madrid;TRUE;
+512;Spain;ES;XMEF;BMEX;MEFF Renta Fija;MEFF;Barcelona;www.meff.com;Barcelona;TRUE;
+513;Spain;ES;XMRV;BMEX;MEFF Renta Variable;MEFF;Barcelona;www.meffclear.com;Barcelona;TRUE;
+514;Spain;ES;XVAL;BMEX;Bolsa de Valencia;;Valencia;www.bolsavalencia.es;Valencia;TRUE;
+515;Spain;ES;OMEL;;Operador de Mercado Iberico de Energia - Spain;OMEL;Madrid;www.omel.es;Madrid;TRUE;
+516;Spain;ES;PAVE;;Alternative Platform for Spanish Securities;PAVE;Barcelona;www.paveplatform.com;Barcelona;TRUE;
+517;Spain;ES;XDPA;;CADE - Mercado de Deuda Publica Anotada;;Madrid;;Madrid;TRUE;
+518;Spain;ES;XNAF;;Sistema Espanol de Negociacion de Activos Financieros;SENAF;Madrid;www.senaf.net;Madrid;TRUE;
+519;Spain;ES;XSRM;;Mercado de Futuros de Aceite de Oliva, S.A.;MFAO;Jaen;www.mfao.es;Jaen;TRUE;
+520;Sri Lanka;LK;XCOL;;Colombo Stock Exchange;;Colombo;www.cse.lk;Colombo;TRUE;
+521;Sudan;SD;XKHA;;Khartoum Stock Exchange;KSE;Khartoum;www.kse.com.sd;Khartoum;TRUE;
+522;Swaziland;SZ;XSWA;;Swaziland Stock Exchange;SSX;Mbabane;www.ssx.org.sz;Mbabane;TRUE;
+523;Sweden;SE;SEBX;;SEB - Liquidity Pool;SEB;Stockholm;www.seb.se;Stockholm;TRUE;SKANDINAVISKA ENSKILDA BANKEN AB LIQUIDITY POOL.
+524;Sweden;SE;ENSX;SEBX;SEB Enskilda;;Stockholm;www.seb.se;Stockholm;TRUE;SEB ENSKILADA LIQUIDITY POOL.
+525;Sweden;SE;XNGM;;Nordic Growth Market;NGM;Stockholm;www.ngm.se;Stockholm;TRUE;REINSTATED. CONFIRMED BY EXCHANGE.
+526;Sweden;SE;NMTF;XNGM;Nordic MTF;;Stockholm;www.nordicmtf.se;Stockholm;TRUE;
+527;Sweden;SE;XNDX;XNGM;Nordic Derivatives Exchange;NDX;Stockholm;www.ndx.se;Stockholm;TRUE;
+528;Sweden;SE;XNMR;XNGM;Nordic MTF Reporting;;Stockholm;www.nordicmtf.se;Stockholm;TRUE;OFF EXCHANGE TRADE REPORTING
+529;Sweden;SE;XSAT;;AktieTorget;;Stockholm;www.aktietorget.se;Stockholm;TRUE;
+530;Sweden;SE;XSTO;;NASDAQ OMX Nordic;;Stockholm;www.nasdaqomx.com;Stockholm;TRUE;INSTITUTION DESCRIPTION MODIFIED.
+531;Sweden;SE;FNSE;XSTO;First North Stockholm;;Stockholm;omxnordicexchange.com/firstnorth;Stockholm;TRUE;FIRST NORTH IS OPERATED BY OMX.FIRST NORTH IS A NORDIC ALTERNATIVE MARKETPLACE FOR TRADING IN SHARES. MTF FOR EQUITIES AND RELATED.
+532;Sweden;SE;XOPV;XSTO;OMX OTC Publication Venue;;Stockholm;www.nasdaqomx.com;Stockholm;TRUE;
+533;Switzerland;CH;EUCH;;Eurex Zurich;;Zurich;www.eurexrepo.com;Zurich;TRUE;
+534;Switzerland;CH;EURM;EUCH;Eurex Repo Market;;Zurich;www.eurexrepo.com;Zurich;TRUE;EUREX SWISS REPO MARKET.
+535;Switzerland;CH;EUSC;EUCH;Eurex CH Seclend Market;;Zurich;www.eurexrepo.com;Zurich;TRUE;EUREX SWISS SECURITIES LENDING MARKET.
+536;Switzerland;CH;EUSP;EUCH;Eurex OTC Spot Market;;Zurich;www.eurexrepo.com;Zurich;TRUE;EUREX SWISS OTC/SPOT MARKET.
+537;Switzerland;CH;STOX;;Stoxx Limited;;Zurich;www.stoxx.com;Zurich;TRUE;
+538;Switzerland;CH;XSCU;STOX;Stoxx Limited - Customized Indices;;Zurich;www.stoxx.com;Zurich;TRUE;
+539;Switzerland;CH;XSTV;STOX;Stoxx Limited - Volatility Indices;;Zurich;www.stoxx.com;Zurich;TRUE;
+540;Switzerland;CH;XSTX;STOX;Stoxx Limited - Indices;;Zurich;www.stoxx.com;Zurich;TRUE;
+541;Switzerland;CH;XBRN;;Berne Stock Exchange;;Berne;www.berne-x.com;Berne;TRUE;
+542;Switzerland;CH;AIXE;XBRN;Aixecute;;Berne;www.bekb.ch;Berne;TRUE;
+543;Switzerland;CH;XQMH;;Scoach Switzerland;;Zurich;www.scoach.ch;Zurich;TRUE;
+544;Switzerland;CH;XBTR;XQMH;Scoach OTC - Switzerland; ;Zurich;www.scoach.ch;Zurich;TRUE;
+545;Switzerland;CH;XSWX;;Swiss Exchange;SWX;Zurich;www.swx.com;Zurich;TRUE;
+546;Switzerland;CH;XVTX;XSWX;Six Swiss Exchange AG;;Zurich;www.swxeurope.com;Zurich;TRUE;SINCE JUNE 2009,  ALL STOCKS WERE REPATRIATED TO SIX SWISS EXCHANGE IN ZURICH.
+547;Switzerland;CH;ZKBX;;Zurcher Kantonalbank Securities Exchange;;Zurich;www.zkb.ch;Zurich;TRUE;REGISTERED MARKET FOR EQUITIES AND BONDS, ELECTRONIC TRADING PLATFORM FOR OTC DERIVATIVES, ETC.
+548;Syrian Arab Republic;SY;XDSE;;Damascus Securities Exchange;;Damascus;www.dse.sy;Damascus;TRUE;REGISTERED MARKET FOR EQUITIES AND BONDS
+549;Taiwan;TW;ROCO;;Gretai Securities Market;;Taipei;www.otc.org.tw;Taipei;TRUE;
+550;Taiwan;TW;XTAF;;Taiwan Futures Exchange;TAIFEX;Taipei;www.taifex.com.tw;Taipei;TRUE;
+551;Taiwan;TW;XTAI;;Taiwan Stock Exchange;TWSE;Taipei;www.twse.com.tw/en/;Taipei;TRUE;
+552;Tanzania;TZ;XDAR;;Dar es  Salaam Stock Exchange;;Dar es Salaam;www.darstockexchange.com;Dar es Salaam;TRUE;
+553;Thailand;TH;AFET;;Agricultural Futures Exchange of Thailand;;Bangkok;www.afet.or.th;Bangkok;TRUE;
+554;Thailand;TH;BEEX;;Bond Electronic Exchange;;Bangkok;www.bex.or.th;Bangkok;TRUE;
+555;Thailand;TH;TFEX;;Thailand Futures Exchange;TFEX;Bangkok;www.tfex.co.th;Bangkok;TRUE;
+556;Thailand;TH;XBKK;;Stock Exchange of Thailand;SET;Bangkok;www.set.or.th;Bangkok;TRUE;
+557;Thailand;TH;XBKF;XBKK;Stock Exchange of Thailand - Foreign Board;SET;Bangkok;www.set.or.th;Bangkok;TRUE;
+558;Thailand;TH;XMAI;XBKK;Market for Alternative Investment;;Bangkok;www.set.or.th;Bangkok;TRUE;THE MAI’S PURPOSE IS TO CREATE NEW FUND-RAISING OPPORTUNITIES FOR INNOVATIVE BUSINESS WITH HIGH POTENTIAL GROWTH AS WELL AS PROVIDE A GREATER RANGE OF INVESTMENT ALTERNATIVES.
+559;The Netherlands;NL;CLMX;;Climex;;Utrecht;www.climex.com;Utrecht;TRUE;MARKET FOR TRADING AND AUCTIONING ENVIRONMENTAL COMMODITIES AND ENERGY CONTRACTS
+560;The Netherlands;NL;ECXE;;European Climate Exchange;;Amsterdam;www.ecx.eu;Amsterdam;TRUE;
+561;The Netherlands;NL;NDEX;;ICE Endex Derivatives;ICE ENDEX;Amsterdam;www.iceendex.com;Amsterdam;TRUE;GAS SPOT AND GAS AND POWER DERIVATIVES MARKET
+562;The Netherlands;NL;NLPX;;APX Power NL;;Amsterdam;www.apxgroup.com;Amsterdam;TRUE;
+563;The Netherlands;NL;TOMX;;TOM MTF Cash Markets;;Amsterdam;www.tommtf.eu;Amsterdam;TRUE;MTF FOR EQUITIES.
+564;The Netherlands;NL;TOMD;TOMX;TOM MTF Derivatives Market;;Amsterdam;www.tommtf.eu;Amsterdam;TRUE;MTF FOR DERIVATIVES.
+565;The Netherlands;NL;XAMS;;NYSE Euronext - Euronext Amsterdam;;Amsterdam;www.euronext.com;Amsterdam;TRUE;
+566;The Netherlands;NL;ALXA;XAMS;NYSE Euronext - Alternext Amsterdam;;Amsterdam;www.euronext.com;Amsterdam;TRUE;
+567;The Netherlands;NL;TNLA;XAMS;NYSE Euronext - Traded but not listed Amsterdam;;Amsterdam;www.euronext.com;Amsterdam;TRUE;
+568;The Netherlands;NL;XEUC;XAMS;Euronext Com, Commodities Futures and Options;;Amsterdam;www.euronext.com;Amsterdam;TRUE;
+569;The Netherlands;NL;XEUE;XAMS;Euronext EQF, Equities and Indices Derivatives;;Amsterdam;www.euronext.com;Amsterdam;TRUE;
+570;The Netherlands;NL;XEUI;XAMS;Euronext IRF, Interest Rate Future and Options;;Amsterdam;www.euronext.com;Amsterdam;TRUE;
+571;The Netherlands;NL;XHFT;XAMS;NYSE Arca Europe;NYSE;Amsterdam;www.euronext.com;Amsterdam;TRUE;NYSE EURONEXT PAN-EUROPEAN MTF FOR HIGH FREQUENCY TRADING (HFT)
+572;The Netherlands;NL;XEMS;;EMS Exchange;;s-Hertogenbosch;www.vanlanschot.nl;s-Hertogenbosch;TRUE;REGISTERED MARKET FOR SECURITIES, ELECTRONIC TRADING PLATFORM.
+573;Trinidad and Tobago;TT;XTRN;;Trinidad and Tobago Stock Exchange;TTSE;Port of Spain;;Port of Spain;TRUE;
+574;Tunisia;TN;XTUN;;Bourse de Tunis;BVMT;Tunis;www.bvmt.com.tn;Tunis;TRUE;
+575;Turkey;TR;XIST;;Borsa Istanbul;ISE;Istanbul;www.borsaistanbul.com;Istanbul;TRUE;CHANGE OF MARKET NAME AND MARKET WEBSITE
+576;Turkey;TR;XTUR;;Turkish Derivatives Exchange;TURKDEX;Izmir;www.turkdex.org.tr;Izmir;TRUE;
+577;Uganda;UG;XUGA;;Uganda Securities Exchange;USE;Kampala;www.use.or.ug;Kampala;TRUE;
+578;Ukraine;UA;EESE;;East European Stock Exchange;;Kiev;www.eese.com.ua;Kiev;TRUE;
+579;Ukraine;UA;PFTS;;PFTS Stock Exchange;PFTS;Kiev;www.pfts.com;Kiev;TRUE;
+580;Ukraine;UA;PFTQ;PFTS;PFTS Quote Driven;;Kiev;www.pfts.com;Kiev;TRUE;QUOTE DRIVEN MARKET IS A TRADING SEGMENT UNDER PFTS STOCK EXCHANGE.
+581;Ukraine;UA;SEPE;;Stock Exchange Perspectiva;;Dnipropetrovsk;fbp.com.ua;Dnipropetrovsk;TRUE;
+582;Ukraine;UA;UKEX;;Ukrainian Exchange;;Kiev;www.ux.ua;Kiev;TRUE;REGISTERED MARKET FOR EQUITIES AND BONDS.
+583;Ukraine;UA;XDFB;;Joint-Stock Company “Stock Exchange INNEX”;;Kiev;;Kiev;TRUE;
+584;Ukraine;UA;XKHR;;Kharkov Commodity Exchange;;Kharkov;www.xtb.com.ua;Kharkov;TRUE;
+585;Ukraine;UA;XKIE;;Kiev Universal Exchange;;Kiev;www.kue.kiev.ua;Kiev;TRUE;
+586;Ukraine;UA;XKIS;;Kiev International Stock Exchange;KISE;Kiev;www.kise-ua.com;Kiev;TRUE;
+587;Ukraine;UA;XODE;;Odessa Commodity Exchange;;Odessa;www.otb.odessa.ua;Odessa;TRUE;
+588;Ukraine;UA;XPRI;;Pridneprovsk Commodity Exchange;;Dnipropetrovsk;;Dnipropetrovsk;TRUE;
+589;Ukraine;UA;XUAX;;Ukrainian Stock Exchange;UKRSE;Kiev;www.ukrse.kiev.ua;Kiev;TRUE;
+590;Ukraine;UA;XUKR;;Ukrainian Universal Commodity Exchange;;Kiev;www.uutb.com.ua;Kiev;TRUE;
+591;United Arab Emirates;AE;DGCX;;Dubai Gold & Commodities Exchange DMCC;DGCX;Dubai;www.dgcx.ae;Dubai;TRUE;
+592;United Arab Emirates;AE;DIFX;;NASDAQ Dubai;DIFX;Dubai;www.difx.ae;Dubai;TRUE;ON TUESDAY 18TH NOVEMBER, 2008, THE DUBAI INTERNATIONAL FINANCIAL MARKET WAS REBRANDED AS NASDAQ DUBAI
+593;United Arab Emirates;AE;DUMX;;Dubai Mercantile Exchange;;Dubai;www.dubaimerc.com;Dubai;TRUE;
+594;United Arab Emirates;AE;XADS;;Abu Dhabi Securities Exchange;ADSM;Abu Dhabi;www.adx.ae;Abu Dhabi;TRUE;
+595;United Arab Emirates;AE;XDFM;;Dubai Financial Market;DFM;Dubai;www.dfm.co.ae;Dubai;TRUE;
+596;United Kingdom;GB;BALT;;The Baltic Exchange;;London;www.balticexchange.com;London;TRUE;
+597;United Kingdom;GB;BCXE;;BATS  Chi-X Europe;;London;www.batstrading.co.uk;London;TRUE;
+598;United Kingdom;GB;BATD;BCXE;BATS Chi-X Europe -BXE Dark Order Book;BATS DARK;London;www.batstrading.co.uk;London;TRUE;TO BE USED FOR REPORTING DARK BOOK EXECUTIONS.
+599;United Kingdom;GB;BATE;BCXE;BATS Chi-X Europe -BXE Order Books;BATS CHI-X;London;www.batstrading.co.uk;London;TRUE;MULTILATERAL TRADING FACILITY FOR CASH EQUITIES
+600;United Kingdom;GB;BATF;BCXE;BATS Chi-X Europe – BATS Off-Book;BATS OFF-BOOK;London;www.batstrading.co.uk;London;TRUE;BATS CHI-X EUROPE (BXE) OFF-BOOK TRADE REPORTS.
+601;United Kingdom;GB;CHID;BCXE;BATS Chi-X Europe - CXE Dark Order Book;CHI-X DARK;London;www.batstrading.co.uk;London;TRUE;TO BE USED FOR REPORTING DARK BOOK EXECUTIONS.
+602;United Kingdom;GB;CHIO;BCXE;BATS Chi-X Europe – CXE Off-Book;CHI-X OFF-BOOK;London;www.batstrading.co.uk;London;TRUE;BATS CHI-X EUROPE (CXE) OFF-BOOK TRADE REPORTS.
+603;United Kingdom;GB;CHIX;BCXE;BATS Chi-X Europe -CXE Order Books;BATS CHI-X;London;www.batstrading.co.uk;London;TRUE;MULTILATERAL TRADING FACILITY FOR CASH EQUITIES.
+604;United Kingdom;GB;CHIY;BCXE;BATS Chi-X Europe Limited - Chi-Clear;CHI-X;London;www.batstrading.co.uk;London;TRUE;OFF BOOK, ON-EXCHANGE SYSTEM FOR CFDS AND EQUITIES.
+605;United Kingdom;GB;BGCI;;BGC Brokers LP;;London;www.bgcpartners.com;London;TRUE;
+606;United Kingdom;GB;BLOX;;Blockmatch;;London;www.instinet.com;London;TRUE;
+607;United Kingdom;GB;BOAT;;Markit Boat;;London;www.markit.com;London;TRUE;OTC EQUITIES TRADE REPORTING PLATFORM
+608;United Kingdom;GB;BOSC;;Bondscape;;London;www.bondscape.net;London;TRUE;
+609;United Kingdom;GB;CAZE;;The Cazenove MTF;;London;www.jpmorgancazenove.com;London;TRUE;
+610;United Kingdom;GB;CCO2;;Cantorco2e.Com Limited;;London;www.cantorco2e.com;London;TRUE;
+611;United Kingdom;GB;CGME;;Citi Match GB;;London;www.citigroup.com;London;TRUE;CITI MATCH EMEA
+612;United Kingdom;GB;CHEV;;Ca Cheuvreux;;London;www.cheuvreux.com;London;TRUE;
+613;United Kingdom;GB;BLNK;CHEV;Blink MTF;;London;www.cheuvreux.com;London;TRUE;EQUITIES CROSSING, EQUITIES DARK POOL, PAN-EUROPEAN EQUITIES.
+614;United Kingdom;GB;CMEE;;CME  Europe;CME;London;www.cmegroup.com;London;TRUE;
+615;United Kingdom;GB;CMEC;CMEE;CME Clearing Europe;CME;London;www.cmeclearingeurope.com;London;TRUE;CME TRADING PLATFORM FOR LISTED DERIVATIVES
+616;United Kingdom;GB;CMED;CMEE;CME Europe - Derivatives;CME;London;www.cmegroup.com;London;TRUE;
+617;United Kingdom;GB;CSEU;;Credit Suisse (Europe);;London;www.credit-suisse.com;London;TRUE;
+618;United Kingdom;GB;CSCF;CSEU;Credit Suisse AES Crossfinder Europe;;London;www.credit-suisse.com;London;TRUE;
+619;United Kingdom;GB;FAIR;;Cantor Spreadfair;;London;www.spreadfair.com;London;TRUE;
+620;United Kingdom;GB;GEMX;;Gemma (Gilt Edged Market Makers’association);GEMMA;London;;London;TRUE;
+621;United Kingdom;GB;GFIA;;GFI Auctionmatch;;London;www.gfigroup.com;London;TRUE;GFI GROUP CREDIT AUCTIONS.
+622;United Kingdom;GB;GFIC;GFIA;GFI Creditmatch;;London;www.gfigroup.com;London;TRUE;
+623;United Kingdom;GB;GFIF;GFIA;GFI Forexmatch;;London;www.gfigroup.com;London;TRUE;
+624;United Kingdom;GB;GFIM;GFIA;GFI Marketmatch;;London;www.gfigroup.com;London;TRUE;ELECTRONIC PLATFORM FOR OTC DERIVATIVES
+625;United Kingdom;GB;GFIN;GFIA;GFI Energymatch;;London;www.gfigroup.com;London;TRUE;ADDITIONAL PRODUCTS: DRY FREIGHT DERIVATIVES AND UK GAS TRADING
+626;United Kingdom;GB;GFIR;GFIA;GFI Ratesmatch;;London;www.gfigroup.com;London;TRUE;ELECTRONIC PLATFORM FOR TRADING INTEREST RATE DERVIATIVES.
+627;United Kingdom;GB;XGFI;GFIA;GFI Basismatch;;London;www.gfigroup.com;London;TRUE;ELECTRONIC TRADING PLATFORM FOR OTC CURRENCY BASIS SWAPS
+628;United Kingdom;GB;GMEG;;Global Markets Exchange;GMEX;London;www.gmex-group.com;London;TRUE;MTF FOR DERIVATIVES AND SECURITIES
+629;United Kingdom;GB;XGCX;GMEG;Global Commodities Exchange;GCX;London;www.gmex-group.com;London;TRUE;EXCHANGE FOR CASH SETTLED COMMODITIES
+630;United Kingdom;GB;XGDX;GMEG;Global Derivatives Exchange;GDX;London;www.gmex-group.com;London;TRUE;EXCHANGE FOR DERIVATIVES
+631;United Kingdom;GB;XGSX;GMEG;Global Securities Exchange;GSX;London;www.gmex-group.com;London;TRUE;EXCHANGE FOR SECURITIES
+632;United Kingdom;GB;XLDX;GMEG;London Derivatives Exchange;LDX;London;www.gmex-group.com;London;TRUE;MTF FOR DERIVATIVES
+633;United Kingdom;GB;GRIF;;Griffin Markets Limited;;London;www.griffinmarkets.com;London;TRUE;TRADING VENUE FOR EUROPEAN ENERGY MARKETS.
+634;United Kingdom;GB;HSXE;;HSBC-X United Kingdom;;London;www.hsbc.com;London;TRUE;
+635;United Kingdom;GB;HUNG;;MTS Hungary;;London;;London;TRUE;MTS HUNGARY IS A DIVISION OF EUROMTS AND TRADES GOVIES BONDS.
+636;United Kingdom;GB;ICAP;;ICAP Europe;;London;www.i-swap.com;London;TRUE;
+637;United Kingdom;GB;BTEE;ICAP;ICAP Electronic Broking (Europe);;London;www.icap.com;London;TRUE;
+638;United Kingdom;GB;ICAH;ICAP;ICAP Shipping Tanker Derivatives Limited;;London;www.icap.com;London;TRUE;ICAP MARKET'S SEGMENT
+639;United Kingdom;GB;ICEN;ICAP;ICAP Energy;;London;www.icapenergy.com;London;TRUE;
+640;United Kingdom;GB;ICSE;ICAP;ICAP Securities;;London;www.icap.com;London;TRUE;
+641;United Kingdom;GB;ICTQ;ICAP;ICAP TrueQuote;;London;www.icapenergy.com/eu;London;TRUE;ELECTONIC TRADING PLATFORM FOR OTC OIL SWAPS.
+642;United Kingdom;GB;ISDX;ICAP;ICAP Securities & Derivatives Exchange Limited;;London;www.isdx.com;London;TRUE;THE MARKET OPERATOR PLUS STOCK EXCHANGE PLC CHANGED ITS NAME TO ICAP SECURITIES & DERIVATIVES EXCHANGE LIMITED, ISDX WITH EFFECT FROM 31 OCTOBER 2012.
+643;United Kingdom;GB;PLDX;ICAP;Plus Derivatives Exchange;PLUS-DX;London;www.plus-dx.com;London;TRUE;SERVICE COMPANY PROVIDING EXECUTION SERVICES FOR OTC DERIVATIVES.
+644;United Kingdom;GB;PLSX;ICAP;Plus Stock Exchange;PLUS-SX;London;www.plus-sx.com;London;TRUE;
+645;United Kingdom;GB;WCLK;ICAP;ICAP WCLK;;London;www.icap.com;London;TRUE;
+646;United Kingdom;GB;IFEU;;Intercontinental Exchange - ICE Futures Limited;;London;www.theice.com;London;TRUE;ELECTRONIC PLATFORM TO TRADE FUTURES AND OPTIONS PRODUCTS. IFEU REPLACES MIC ICEU.
+647;United Kingdom;GB;CXRT;IFEU;Creditex Realtime;;London;www.creditex.com;London;TRUE;
+648;United Kingdom;GB;ISWA;;I-Swap;;London;www.i-swap.com;London;TRUE;AUTHORISED MTF FOR OF EURO INTEREST RATE SWAPS.
+649;United Kingdom;GB;KLEU;;Knight Link Europe;;London;www.knight.com;London;TRUE;SYSTEMATIC INTERNALISER
+650;United Kingdom;GB;LIQU;;Liquidnet Systems;;London;www.liquidnet.com;London;TRUE;
+651;United Kingdom;GB;LIQH;LIQU;Liquidnet H20;LQNT H20;London;www.liquidnet.com;London;TRUE;DARK POOL.
+652;United Kingdom;GB;LMAX;;LMAX;;London;www.mtf.lmax.com;London;TRUE;FSA REGULATED MTF FOR RETAIL CLIENTS TO TRADE CFDS.
+653;United Kingdom;GB;LMAD;LMAX;LMAX - Derivatives;;London;www.lmax.com;London;TRUE;LMAX ALLOWS THE BENEFIT OF DIRECT ACCESS TO FINANCIAL MARKETS AND ALSO FACILITATES MTF WHERE TRADES ARE ENTERED DIRECTLY INTO THE MARKET AS ORDERS AND ALSO ACCESS FIVE LEVELS OF MARKET DEPTH WHERE THE BOOK IS WEIGHTED BETWEEN BUYERS AND SELLERS.
+654;United Kingdom;GB;LMAE;LMAX;LMAX - Equities;;London;www.lmax.com;London;TRUE;"FSA REGULATED MTF FOR RETAIL CLIENTS TO TRADE CFDS UNDERLYINGS IN MULTIPLE ASSETS CLASSES INCLUDING EQUITIES.
+."
+655;United Kingdom;GB;LMAF;LMAX;LMAX - FX;;London;www.lmax.com;London;TRUE;"FSA REGULATED MTF FOR RETAIL CLIENTS TO TRADE CFDS UNDERLYINGS IN MULTIPLE ASSETS CLASSES INCLUDING FX.
+."
+656;United Kingdom;GB;LMAO;LMAX;LMAX - Indices/Rates/Commodities;;London;www.lmax.com;London;TRUE;"FSA REGULATED MTF FOR RETAIL CLIENTS TO TRADE CFDS UNDERLYINGS IN MULTIPLE ASSETS CLASSES INCLUDING INDICES/RATES/COMMODITIES.
+."
+657;United Kingdom;GB;LMTS;;EuroGlobalMTS;;London;www.liquidnet.com;London;TRUE;
+658;United Kingdom;GB;LPPM;;London Platinum and Palladium Market;LPPM;London;www.lppm.org.uk;London;TRUE;
+659;United Kingdom;GB;MAEL;;Marketaxess Europe Limited;;London;www.marketaxess.com;London;TRUE;
+660;United Kingdom;GB;MFGL;;MF Global Energy MTF;;London;www.mfglobal.com;London;TRUE;
+661;United Kingdom;GB;MYTR;;MyTreasury;;London;www.mytreasury.com;London;TRUE;
+662;United Kingdom;GB;N2EX;;N2Ex;;London;www.n2ex.com;London;TRUE;N2EX, THE UK MARKET OPERATED BY NASDAQ OMX COMMODITIES AND NORD POOL SPOT, IS A MARKETPLACE FOR PHYSICAL UK POWER CONTRACTS AND LAUNCH A PLATFORM FOR FINANCIAL FUTURES CONTRACTS.
+663;United Kingdom;GB;NOFF;;Nomura OTC Trades;;London;www.nomura.com;London;TRUE;
+664;United Kingdom;GB;NURO;;NASDAQ OMX Europe;;London;www.nasdaqomxeurope.com;London;TRUE;MULTILATERAL TRADING FACILITY - NASDAQOMX  EUROPE - NEW MIC
+665;United Kingdom;GB;NURD;NURO;NASDAQ Europe (Nuro) Dark;NURODARK;London;www.nasdaqomxeurope.com;London;TRUE;DARK POOL.
+666;United Kingdom;GB;XNLX;NURO;NASDAQ OMX NLX;NLX;London;www.nlx.co.uk;London;TRUE;MULTILATERAL TRADING FACILITY FOR LISTED DERIVATIVES.
+667;United Kingdom;GB;NXEU;;NX;;London;www.nomura.com;London;TRUE;NX IS THE INTERNAL EQUITIES ONLY CROSSING PLATFORM FOR NOMURA.
+668;United Kingdom;GB;PIEU;;Aritas Financial Ltd;;London;www.pipelinetrading.com;London;TRUE;MTF FOR LARGE BLOCK PAN-EUROPEAN EQUITIES.
+669;United Kingdom;GB;PIRM;;Pirum;;London;www.pirum.com;London;TRUE;SECURITIES LENDING CCP FLOW PROVIDER.
+670;United Kingdom;GB;PRME;;MTS Prime;;London;www.mtsmarkets.com;London;TRUE;MTS PRIME IS A MARKET WHERE PARTICIPANTS CAN TRADE CORPORATE, COVERED AND FINANCIAL BONDS. IT IS A MARKET UNDER EUROMTS’ UMBRELLA.
+671;United Kingdom;GB;QWIX;;Q-Wixx Platform;;London;www.qwixx.com;London;TRUE;
+672;United Kingdom;GB;RBCE;;RBC Europe Limited;;London;www.rbc.com;London;TRUE;EQUITIES BROKER FILL
+673;United Kingdom;GB;RBSX;;RBS Cross;;London;www.rbs.com;London;TRUE;RBS CROSS IS THE BROKER CROSSING SYSTEM (BCS) OPERATED BY RBS.
+674;United Kingdom;GB;RTSL;;Reuters Transaction Services Limited;RTSL;London;www.reuters.com;London;TRUE;
+675;United Kingdom;GB;SECF;;SecFinex;;London;www.secfinex.com;London;TRUE;MULTILATERAL TRADING FACILITY - ELECTRONIC EXCHANGE FOR STOCK BORROWING AND LENDING TRANSACTIONS
+676;United Kingdom;GB;SGMX;;Sigma X MTF;;London;www.gs.com;London;TRUE;ELECTRONIC TRADING PLATFORM FOR EUROPEAN EQUITIES.
+677;United Kingdom;GB;SHAR;;Asset Match;;Aylesbury;www.sharemark.com;Aylesbury;TRUE;
+678;United Kingdom;GB;SLXT;;Sl-X - Securities Lending MTF;;London;www.sl-x.com;London;TRUE;SECURITIES LENDING MTF
+679;United Kingdom;GB;SPEC;;Spectronlive;;London;www.spectrongroup.com;London;TRUE;
+680;United Kingdom;GB;SPRZ;;Spreadzero;;London;www.spreadzero.com;London;TRUE;ELECTRONIC CROSSING PLATFORM
+681;United Kingdom;GB;SWAP;;Swapstream;;London;www.swapstream.com;London;TRUE;
+682;United Kingdom;GB;TFSV;;Volbroker;;London;www.tfsicap.com;London;TRUE;
+683;United Kingdom;GB;TPIE;;The Property Investment Exchange;PROPEX;London;www.propex.co.uk;London;TRUE;
+684;United Kingdom;GB;TRDE;;Tradition Electronic Trading Platform;;London;www.tradition.com;London;TRUE;ELECTRONIC TRADING PLATFORM FOR SECURITIES. TRADE NAME: TRAD-X.
+685;United Kingdom;GB;NAVE;TRDE;Navesis-MTF;;London;www.tradition.com;London;TRUE;TRADE NAME: NAVESIS-MTF.
+686;United Kingdom;GB;OILX;TRDE;OilX;;London;www.tradition.com;London;TRUE;ARRANGING PLATFORM FOR OIL SWAP TRANSACTIONS.
+687;United Kingdom;GB;TCDS;TRDE;Tradition CDS;;London;www.tradition.co.uk;London;TRUE;
+688;United Kingdom;GB;TCME;TRDE;TFS CME Direct;;London;www.tradition.com;London;TRUE;ELECTRONIC TRADING PLATFORM FOR ENERGY DERIVATIVES.
+689;United Kingdom;GB;TFSC;TRDE;TFS Green Carbon Credit Global Markets;TFS;London;www.tfsgreen.com;London;TRUE;
+690;United Kingdom;GB;TFSE;TRDE;TFS Green European Green Markets;TFS;London;www.tradition.com;London;TRUE;
+691;United Kingdom;GB;TFSG;TRDE;TFS Broker Suite;;London;www.tfsgreen.com;London;TRUE;TRADE NAME: TRAYPORT
+692;United Kingdom;GB;TFSS;TRDE;TFS Variance Swaps System;;London;;London;TRUE;
+693;United Kingdom;GB;TRDX;TRDE;Trad-X;TRAD-X;London;www.tradition.com;London;TRUE;TRADITION'S HYBRID TRADING PLATFORM FOR OTC DERIVATIVES AND OTHER FINANCIAL INSTRUMENTS.
+694;United Kingdom;GB;VOLA;TRDE;Tradition - Volatis;;London;www.tradition.com;London;TRUE;
+695;United Kingdom;GB;TREU;;Tradeweb Europe Limited;;London;www.londonstockexchange.com;London;TRUE;
+696;United Kingdom;GB;TRQX;;Turquoise;;London;www.tradeturquoise.com;London;TRUE;
+697;United Kingdom;GB;TRQD;TRQX;Turquoise Derivatives Market;;London;www.tradeturquoise.com;London;TRUE;TQ MARKET SEGMENT, DERIVATIVES MARKET. THIS WENT LIVE DURING Q2, 2011.
+698;United Kingdom;GB;TRQM;TRQX;Turquoise Dark;TQDARK;London;www.tradeturquoise.com;London;TRUE;DARK POOL.
+699;United Kingdom;GB;UKGD;;UK Gilts Market;;London;;London;TRUE;THE MTS UK GOVERNMENT BOND MARKET OPERATES AS AN MTF AND WILL BE OPEN EXCLUSIVELY TO THE COMMUNITY OF GEMMS.
+700;United Kingdom;GB;UKPX;;APX Power UK;;London;www.apxgroup.com;London;TRUE;
+701;United Kingdom;GB;VEGA;;Vega-Chi;;London;www.vega-chi.com;London;TRUE;ELECTRONIC TRADING PLATFORM FOR OTC SECURITIES. FSA APPROVAL RECEIVED ON JANUARY 2010.
+702;United Kingdom;GB;XALT;;Altex-ATS;;London;www.altex-ats.co.uk;London;TRUE;
+703;United Kingdom;GB;XCOR;;ICMA;;London;www.icma-group.org;London;TRUE;
+704;United Kingdom;GB;XLBM;;London Bullion Market;;London;www.lbma.org.uk;London;TRUE;
+705;United Kingdom;GB;XLDN;;NYSE Euronext - Euronext London;;London;www.euronext.com;London;TRUE;A UK REGULATED MARKET AIMED AT INTERNATIONAL ISSUERS COMPLEMENTARY TO THE EXISTING NYSE EURONEXT CASH MARKETS.
+706;United Kingdom;GB;XLIF;XLDN;NYSE Euronext Liffe;;London;www.euronext.com;London;TRUE;
+707;United Kingdom;GB;XLME;;London Metal Exchange;LME;London;www.lme.co.uk;London;TRUE;
+708;United Kingdom;GB;XLON;;London Stock Exchange;LSE;London;www.londonstockexchange.com;London;TRUE;
+709;United Kingdom;GB;XMTS;;MTS Markets;;London;www.mtsmarkets.com;London;TRUE;
+710;United Kingdom;GB;AMTS;XMTS;MTS Netherlands;;London;www.mtsmarkets.com;London;TRUE;
+711;United Kingdom;GB;CMTS;XMTS;Eurocredit MTS;;London;www.eurocreditmts.com;London;TRUE;
+712;United Kingdom;GB;EMTS;XMTS;EuroMTS;EMTS;London;www.euromts-ltd.com;London;TRUE;
+713;United Kingdom;GB;GMTS;XMTS;MTS Germany;;London;www.mtsgermany.com;London;TRUE;
+714;United Kingdom;GB;IMTS;XMTS;MTS Ireland;;London;www.mtsireland.com;London;TRUE;
+715;United Kingdom;GB;MCZK;XMTS;MTS Czech Republic;;London;;London;TRUE;MTS CZECH REPUBLIC IS A DOMESTIC MARKET WHERE IT WILL BE POSSIBLE TO TRADE GOVIES BONDS IN LOCAL CURRENCY.
+716;United Kingdom;GB;MTSA;XMTS;MTS Austria;;London;www.mtsaustria.com;London;TRUE;
+717;United Kingdom;GB;MTSG;XMTS;MTS Greece;;London;www.mtsgreece.com;London;TRUE;
+718;United Kingdom;GB;MTSS;XMTS;MTS Swap Market;;London;;London;TRUE;
+719;United Kingdom;GB;NMTS;XMTS;New EuroMTS;;London;www.neweuromts.com;London;TRUE;
+720;United Kingdom;GB;RMTS;XMTS;MTS Israel;;London;www.mtsisrael.com;London;TRUE;
+721;United Kingdom;GB;SMTS;XMTS;MTS Spain;;London;www.mtsspain.com;London;TRUE;
+722;United Kingdom;GB;TMTS;XMTS;Eurobenchmark Tres. Bills;;London;www.euromts-ltd.com;London;TRUE;
+723;United Kingdom;GB;VMTS;XMTS;MTS Slovenia;;London;www.mtsslovenia.com;London;TRUE;
+724;United Kingdom;GB;XSGA;;Alpha Y;;London;www.execution.socgen.com;London;TRUE;EUROPEAN ELECTRONIC CROSSING PLATFORM FOR CASH EQUITIES.
+725;United Kingdom;GB;XSMP;;SmartPool;;London;www.tradeonsmartpool.com;London;TRUE;PAN EUROPEAN MTF FOR BLOCK TRADING.
+726;United Kingdom;GB;XSWB;;SWX Swiss Block;;London;www.swxeurope.com;London;TRUE;TRADING VENUE FOR SWISS BLUE-CHIP EQUITIES.
+727;United Kingdom;GB;XTUP;;Tullett Prebon plc;;London;www.tullettprebon.com;London;TRUE;
+728;United Kingdom;GB;TBEN;XTUP;Tullett Prebon plc - Tullet Prebon Energy;;London;www.tullettprebon.com;London;TRUE;
+729;United Kingdom;GB;TBLA;XTUP;Tullett Prebon plc - TP TradeBlade;;London;www.tullettprebon.com;London;TRUE;
+730;United Kingdom;GB;TPCD;XTUP;Tullett Prebon plc - TP CreditDeal;;London;www.tullettprebon.com;London;TRUE;ELECTRONIC TRADING PLATFORM FOR CREDIT PRODUCTS
+731;United Kingdom;GB;TPEQ;XTUP;Tullett Prebon plc - TP EquityTrade;;London;www.tullettprebon.com;London;TRUE;MULTILATERAL TRADING PLATFORM FOR EQUITY DERIVATIVES.
+732;United Kingdom;GB;TPFD;XTUP;Tullett Prebon plc - TP ForwardDeal;;London;www.tullettprebon.com;London;TRUE;
+733;United Kingdom;GB;TPRE;XTUP;Tullett Prebon plc - TP Repo;;London;www.tullettprebon.com;London;TRUE;ELECTRONIC TRADING PLATFORM FOR REPURCHASE AGREEMENTS
+734;United Kingdom;GB;TPSD;XTUP;Tullett Prebon plc - TP SwapDeal;;London;www.tullettprebon.com;London;TRUE;OTC ELECTRONIC TRADING PLATFORM FOR INTEREST RATE DERIVATIVES.
+735;United Kingdom;GB;TPSP;XTUP;Tullett Prebon plc - TP SpotDeal;;London;www.tullettprebon.com;London;TRUE;OTC TRADING PLATFORM FOR SPOT FOREIGN EXCHANGE.
+736;United Kingdom;GB;XTPE;XTUP;Tullett Prebon plc - TP EnergyTrade;;London;www.tullettprebon.com;London;TRUE;OTC ELECTRONIC TRADING PLATFORM FOR ENERGY PRODUCTS.
+737;United Kingdom;GB;XUBS;;UBS MTF;;London;www.ubs.com;London;TRUE;
+738;United States of America;US;AATS;;Assent ATS;;Jersey City;www.sungard.com;Jersey City;TRUE;ASSENT ATS IS A US EQUITY DARK POOL OPERATED BY ASSENT, LLC - A SUBSIDIARY OF SUNGARD.
+739;United States of America;US;AQUA;;Aqua Equities L.P.;;New York;www.aquaequities.com;New York;TRUE;REGISTERED MARKET FOR BLOCK EQUITIES
+740;United States of America;US;BAML;;Bank of America - Merrill Lynch ATS;;New York;www.ml.com;New York;TRUE;REGISTERED AS AN ATS WHICH ELECTRONIC CROSSES ORDERS.
+741;United States of America;US;BARX;;Barclays ATS;;New York;www.barx.com/equities/liquiditycrossing.html;New York;TRUE;REGISTERED ATS.
+742;United States of America;US;BARD;BARX;Barclays FX – Trading;BCAP LX;New York;www.barx.com/fx/index.html;New York;TRUE;
+743;United States of America;US;BARL;BARX;Barclays Liquid Markets;;New York;www.barcap.com;New York;TRUE;
+744;United States of America;US;BATS;;BATS Exchange;BATS;New York;www.batstrading.com;New York;TRUE;THE BATS TRADING SYSTEM BECAME AN EXCHANGE EFFECTIVE 24 OCT 2008
+745;United States of America;US;BATO;BATS;BATS Exchange Options Market;BATS;New York;www.batstrading.com;New York;TRUE;LISTED EQUITY OPTIONS EXTENSION OF BATS EXCHANGE PRIMARY MARKET.
+746;United States of America;US;BATY;BATS;BATS Y-Exchange, Inc.;BATS;New York;www.batstrading.com;New York;TRUE;SECOND U.S. EQUITIES EXCHANGE (BYX).
+747;United States of America;US;BGCF;;BGC Financial Inc;;New York;www.bgcpartners.com;New York;TRUE;
+748;United States of America;US;BIDS;;BIDS Trading L.P.;BIDS;New York;www.bidstrading.com;New York;TRUE;
+749;United States of America;US;BLTD;;Bloomberg Tradebook LLC;;New York;www.bloombergtradebook.com;New York;TRUE;
+750;United States of America;US;BPOL;BLTD;Bloomberg BPool;;New York;www.bloomberg.com;New York;TRUE;ELECTRONIC TRADING PLATFORM
+751;United States of America;US;BNDD;;BondDesk;;Mill Valley;www.bonddeskgroup.com;Mill Valley;TRUE;
+752;United States of America;US;BNYC;;ConvergEx;;New York;www.convergex.com;New York;TRUE;
+753;United States of America;US;NYFX;BNYC;Millennium;;New York;www.convergex.com;New York;TRUE;AT THE END OF DEC 2009, THE NYSE SHUT DOWN EURO-MILLENNIUM, THE EUROPEAN EQUITIES ATS. IN DEC 2009, THE CONVERGEX GROUP BOUGHT MILLENNIUM, THE US EQUITIES ATS.
+754;United States of America;US;VTEX;BNYC;VortEx;;New York;www.bnyconvergex.com;New York;TRUE;DARK LIQUIDITY POOL
+755;United States of America;US;BTEC;;ICAP Electronic Broking (US);;Jersey City;www.icap.com;Jersey City;TRUE;
+756;United States of America;US;CCFE;;Chicago Climate Futures Exchange;;Chicago;www.ccfe.com;Chicago;TRUE;
+757;United States of America;US;CDEL;;Citadel Securities ATS;;New York;www.citadelgroup.com;New York;TRUE;ATS FOR EQUITIES.
+758;United States of America;US;CDED;CDEL;Citadel Dark;;New York;www.citadelgroup.com;New York;TRUE;DARK POOL.
+759;United States of America;US;CGMI;;Citigroup Global Markets;;New York;www.citigroup.com;New York;TRUE;
+760;United States of America;US;CGMU;CGMI;Citi Match US;;New York;www.citigroup.com;New York;TRUE;
+761;United States of America;US;CICX;CGMI;Citi Cross;CX;New York;www.citigroup.com;New York;TRUE;REGISTERED ATS DARK POOL FOR EQUITIES
+762;United States of America;US;CRED;;Credit Suisse (US);;New York;www.credit-suisse.com;New York;TRUE;
+763;United States of America;US;CAES;CRED;Credit Suisse Aes Crossfinder;;New York;www.credit-suisse.com;New York;TRUE;REGISTERED ATS
+764;United States of America;US;CSLP;CRED;Credit Suisse Light Pool;;New York;www.credit-suisse.com;New York;TRUE;EQUITIES ELECTRONIC TRADING PLATFORM
+765;United States of America;US;DBSX;;Deutsche Bank Super X;;New York;www.db.com;New York;TRUE;REGISTERED ATS FOR EQUITIES. THIS MIC CODE  IS A GLOBAL PRODUCT WITH HAVING A PRESENCE IN US (NEW YORK), UK (LONDON) AND APAC (HONG KONG).
+766;United States of America;US;DEAL;;DCX (Derivatives Currency Exchange);DCX;New York;www.fxcmpro.com/dcx;New York;TRUE;MULTI-BANK ELECTRONIC TRADING PLATFORM FOR FX OPTIONS
+767;United States of America;US;EDGE;;Direct Edge;;Jersey City;www.directedge.com;Jersey City;TRUE;
+768;United States of America;US;EDDP;EDGE;Direct Edge X Dark;EDGXDARK;Jersey City;www.directedge.com;Jersey City;TRUE;DARK POOL.
+769;United States of America;US;EDGA;EDGE;Edga Exchange;EDGA;Jersey City;www.directedge.com;Jersey City;TRUE;
+770;United States of America;US;EDGD;EDGE;Direct Edge A Dark;EDGADARK;Jersey City;www.directedge.com;Jersey City;TRUE;DARK POOL.
+771;United States of America;US;EDGX;EDGE;EDGX Exchange;EDGX;Jersey City;www.directedge.com;Jersey City;TRUE;
+772;United States of America;US;ERIS;;Eris Exchange;;Chicago;www.erisfutures.com;Chicago;TRUE;
+773;United States of America;US;FAST;;FastMatch;;New York;www.fastmatchfx.com;New York;TRUE;ELECTRONIC TRADING PLATFORM FOR OTC FOREIGN EXCHANGE PRODUCTS
+774;United States of America;US;FINR;;FINRA;;Washington;www.finra.org/industry/compliance/markettransparency/adf/;Washington;TRUE;
+775;United States of America;US;FINN;FINR;FINRA/NASDAQ TRF(Trade Reporting Facility);;Washington;www.finra.org;Washington;TRUE;FINRA HAS TWO TRF PARTICIPANTS, NYSE AND NASDAQ.
+776;United States of America;US;FINO;FINR;FINRA ORF (Trade Reporting Facility);;Washington;www.finra.org;Washington;TRUE;OTC REPORTING FACILITY.
+777;United States of America;US;FINY;FINR;FINRA/NYSE TRF (Trade Reporting Facility);;Washington;www.finra.org/industry/compliance/markettransparency/trf/participants/;Washington;TRUE;FINRA HAS TWO TRF PARTICIPANTS, NYSE AND NASDAQ.
+778;United States of America;US;OOTC;FINR;Other OTC;;Washington;www.otcbb.com;Washington;TRUE;"OTC SECURITY THAT IS NOT QUOTED ON THE NNQS (PREVIOUSLY OTCBB) BUT IS ELIGIBLE FOR TRADE REPORTING TO THE TRADE REPORTING FACILITY, IS CATEGORIZED AS ""OTHER-OTC""."
+779;United States of America;US;XADF;FINR;FINRA Alternative Display Facility (ADF);;Washington/New York;www.finra.org;Washington/New York;TRUE;THE ALTERNATIVE DISPLAY FACILITY (ADF) IS AN SRO DISPLAY ONLY FACILITY THAT IS OPERATED BY FINRA.
+780;United States of America;US;FXAL;;FXall;;New York;www.fxall.com;New York;TRUE;
+781;United States of America;US;FXCM;;FXCM;;New York;www.fxcm.com;New York;TRUE;REGISTERED & REGULATED MARKET FOR OTC FOREIGN EXCHANGE OPTIONS TRADING. MARKET FOR SPOT FX AND OPTIONS.
+782;United States of America;US;GLLC;;GATE US LLC;;New York;www.gateus.com;New York;TRUE;ALTERNATIVE TRADING SYSTEM.
+783;United States of America;US;GOVX;;GovEx;GOVEX;Boston;www.govex.com;Boston;TRUE;TRADING PLATFORM FOR US TREASURY SECURITIES - OPERATED BY STATE STREET
+784;United States of America;US;GREE;;The Green Exchange;;Chicago;www.nymex.greenfutures.com;Chicago;TRUE;ELECTRONIC TRADING PLATFORM FOR VARIOUS ENVIRONMENTAL CONTRACTS.
+785;United States of America;US;GTCO;;GETCO Execution Services, LLC;;New York;www.getcoexecution.com;New York;TRUE;REGISTERED ATS FOR TRADING US CASH EQUITIES.  FINRA MEMBER AND REG ATS ON FILE WITH THE SEC
+786;United States of America;US;HEGX;;Nadex;;Chicago;www.nadex.com;Chicago;TRUE;
+787;United States of America;US;HSFX;;Hotspot FX;;Jersey City;www.hotspotfx.com;Jersey City;TRUE;
+788;United States of America;US;ICEL;;Island ECN Ltd, The;;New York;www.island.com;New York;TRUE;
+789;United States of America;US;IEPA;;Intercontinental Exchange;ICE;Atlanta;www.theice.com;Atlanta;TRUE;
+790;United States of America;US;IMFX;IEPA;ICE Markets Foreign Exchange;;Atlanta;www.theice.com;Atlanta;TRUE;ELECTRONIC TRADING PLATFORM FOR OTC DERIVATIVES.
+791;United States of America;US;IFUS;;ICE Futures U.S.;;New York;www.theice.com;New York;TRUE;ELECTRONIC PLATFORM TO TRADE FUTURES AND OPTIONS PRODUCTS. IFUS REPLACES MIC ICUS.
+792;United States of America;US;IFED;IFUS;ICE Futures U.S. Energy Division;;New York;www.theice.com;New York;TRUE;
+793;United States of America;US;IMAG;IFUS;ICE Markets Agriculture;;Atlanta;www.theice.com;Atlanta;TRUE;ELECTRONIC PLATFORM TO TRADE FUTURES, OPTIONS AND OTC AGRICULTURAL PRODUCTS.
+794;United States of America;US;IMBD;IFUS;ICE Markets Bonds;;Atlanta;www.theice.com;Atlanta;TRUE;ELECTRONIC PLATFORM TO TRADE FUTURES AND OPTIONS PRODUCTS.
+795;United States of America;US;IMCO;IFUS;ICE Markets Commodities;;Atlanta;www.theice.com;Atlanta;TRUE;ELECTRONIC PLATFORM TO TRADE COMMODITIES PRODUCTS.
+796;United States of America;US;IMCR;IFUS;ICE Markets Credit;;Atlanta;www.theice.com;Atlanta;TRUE;ELECTRONIC PLATFORM TO TRADE CREDIT PRODUCTS.
+797;United States of America;US;IMEN;IFUS;ICE Markets Energy;;Atlanta;www.theice.com;Atlanta;TRUE;ELECTRONIC PLATFORM TO TRADE ENERGY PRODUCTS.
+798;United States of America;US;IMEQ;IFUS;ICE Markets Equity;;Atlanta;www.theice.com;Atlanta;TRUE;ELECTRONIC PLATFORM TO TRADE EQUITY PRODUCTS.
+799;United States of America;US;IMIR;IFUS;ICE Markets Rates;;Atlanta;www.theice.com;Atlanta;TRUE;ELECTRONIC PLATFORM TO TRADE CURRENCY PRODUCTS.
+800;United States of America;US;ISDA;;ISDAfix;;New York;www2.isda.org;New York;TRUE;SCREEN SERVICE FOR SWAP RATES FOR SWAP TRANSACTIONS WORLDWIDE.
+801;United States of America;US;ITGI;;ITG - POSIT;;New York;www.itg.com;New York;TRUE;ATS
+802;United States of America;US;JPMX;;JPMX;JPMX;New York;www.jpmorgan.com;New York;TRUE;J.P. MORGAN ATS
+803;United States of America;US;KNIG;;Knight;;Jersey City;www.knight.com;Jersey City;TRUE;
+804;United States of America;US;KNCM;KNIG;Knight Capital Markets LLC;;Jersey City;www.knight.com;Jersey City;TRUE;KCM PRIMARILY OPERATES AS A MARKET-MAKER IN THE OVER-THE-COUNTER MARKET FOR NEW YORK STOCK EXCHANGE AND AMERICAN STOCK EXCHANGE LISTED SECURITIES.
+805;United States of America;US;KNEM;KNIG;Knight Equity Markets LP;;Jersey City;www.knight.com;Jersey City;TRUE;KEM OPERATES AS A MARKET-MAKER IN OVER-THE-COUNTER EQUITY SECURITIES, PRIMARILY THOSE TRADED IN THE NASDAQ STOCK MARKET AND ON THE OTC BULLETIN BOARD.
+806;United States of America;US;KNLI;KNIG;Knight Link;;Jersey City;www.knight.com;Jersey City;TRUE;ELECTRONIC MARKET MAKER, ALTERNATIVE LIQUIDITY PROVIDER FOR US AND EUROPEAN STOCKS
+807;United States of America;US;KNMX;KNIG;Knight Match ATS;;Jersey City;www.knight.com;Jersey City;TRUE;CROSSING ENGINE FOR EQUITIES
+808;United States of America;US;LAVA;;Lava Trading (Citi);;New York;www.lavatrading.com;New York;TRUE;
+809;United States of America;US;LAFD;LAVA;Flow Dark;FLOWDARK;New York;www.lavatrading.com;New York;TRUE;DARK POOL.
+810;United States of America;US;LAFL;LAVA;LavaFlow ECN;;New York;www.lavatrading.com;New York;TRUE;US ELECTRONIC COMMUNICATION NETWORK (ECN) FOR EQUITIES TRADING.
+811;United States of America;US;LAFX;LAVA;LavaFX;;New York;www.lavafx.com;New York;TRUE;
+812;United States of America;US;LEVL;;Level ATS;LEVEL;Boston;www.levelats.com;Boston;TRUE;
+813;United States of America;US;MSPL;;MS Pool ATS;;New York;www.morganstanley.com;New York;TRUE;REGISTERED ATS FOR EQUITIES IN THE U.S.
+814;United States of America;US;MSRP;MSPL;MS ATS-6;MS ATS-6;New York;www.morganstanley.com;New York;TRUE;REGISTERED ATS INTERNAL CROSSING SYSTEM FOR MORGAN STANLEY BUY-SIDE CLIENTS.
+815;United States of America;US;MSTC;MSPL;MS Trajectory Crossing ATS;;New York;www.morganstanley.com;New York;TRUE;REGISTERED ATS FOR EQUITIES IN THE U.S.
+816;United States of America;US;NFSA;;Fidelity CrossStream;;Boston;www.capitalmarkets.fidelity.com;Boston;TRUE;
+817;United States of America;US;NFSC;;National Financial Services, LLC;;Boston;www.fidelitycapitalmarkets.com;Boston;TRUE;TRADING PLATFORM FOR THE EXECUTION OF EQUITY, OPTION, FIXED INCOME, AND OTC SECURITIES.
+818;United States of America;US;NFSD;NFSC;Fidelity Dark;;Boston;www.capitalmarkets.fidelity.com;Boston;TRUE;DARK POOL.
+819;United States of America;US;NMRA;;Nomura Securities International;;New York;www.nomura.com;New York;TRUE;NOMURA PRINCIPAL TRADING.
+820;United States of America;US;NODX;;Nodal Exchange;;Vienna;www.nodalexchange.com;Vienna;TRUE;ELECTRONIC POWER EXCHANGE.
+821;United States of America;US;NXUS;;NX ATS - Crossing Platform;;New York;www.nomura.com;New York;TRUE;NX IS A REGISTERED ATS IN THE US MARKETS - CURRENTLY PROVIDING CROSSING FACILITIES FOR REG NMS LISTED STOCKS.
+822;United States of America;US;NYPC;;New York Portfolio Clearing;NYPC;New York;www.nypclear.com;New York;TRUE;
+823;United States of America;US;OPRA;;Options Price Reporting Authority;OPRA;Chicago;www.opradata.com;Chicago;TRUE;TRADING CONSOLIDATOR.
+824;United States of America;US;OTCM;;OTC Markets;;New York;www.otcmarkets.com;New York;TRUE;OPERATIONAL MIC FOR OTC MARKETS.
+825;United States of America;US;CAVE;OTCM;Caveat Emptor;;New York;www.otcmarkets.com;New York;TRUE;CORPORATE ACTIONS — CAVEAT EMPTOR.
+826;United States of America;US;OTCB;OTCM;OTCQB Marketplace;;New York;www.otcmarkets.com;New York;TRUE;OTCQB MARKET TIER HELPS INVESTORS EASILY IDENTIFY COMPANIES THAT ARE REGISTERED AND CURRENT IN THEIR REPORTING OBLIGATIONS WITH THE SEC OR REPORT TO A U.S. BANKING OR INSURANCE REGULATOR.
+827;United States of America;US;OTCQ;OTCM;OTCQX Marketplace;;New York;www.otcqx.com;New York;TRUE;ELECTRONIC QUOTATION SYSTEM FOR PREMIUM MARKET TIER (OPERATED BY PINK SHEETS)
+828;United States of America;US;PINC;OTCM;OTC Pink Current;;New York;www.otcmarkets.com;New York;TRUE;
+829;United States of America;US;PINI;OTCM;OTC Pink No Information;;New York;www.otcmarkets.com;New York;TRUE;
+830;United States of America;US;PINL;OTCM;OTC Pink Limited;;New York;www.otcmarkets.com;New York;TRUE;
+831;United States of America;US;PINX;OTCM;OTC Pink Marketplace;;New York;www.otcmarkets.com;New York;TRUE;
+832;United States of America;US;PSGM;OTCM;OTC Grey Market;;New York;www.otcmarkets.com;New York;TRUE;
+833;United States of America;US;PDQX;;PDQ ATS;;Illinois;www.pdqenterprises.com;Illinois;TRUE;PDQ ATS, INC. OPERATES THE PDQ ATS, A TRADING PLATFORM LICENSED FROM AND FEATURING THE PATENTED TECHNOLOGY OF SOFTWARE DEVELOPMENT FIRM PDQ ENTERPRISES, LLC.
+834;United States of America;US;PDQD;PDQX;PDQ ATS Dark;;Illinois;www.pdqenterprises.com;Illinois;TRUE;DARK POOL.
+835;United States of America;US;PIPE;;Aritas Securities LLC;;New York;www.pipelinetrading.com;New York;TRUE;
+836;United States of America;US;PRSE;;Pragma ATS;;New York;www.pragmatrading.com;New York;TRUE;REGISTERED ATS FOR US EQUITIES
+837;United States of America;US;PULX;;BlockCross ATS;;Boston;www.blockcross.com;Boston;TRUE;BLOCKCROSS, WHICH IS A DIVISION OF PULSE TRADING INC., AN INDEPENDENT AGENCY BROKERAGE FIRM, IS AN ALTERNATIVE BLOCK TRADING SYSTEM THAT COMBINES BUY AND SELL-SIDE LIQUIDITY TO PROVIDE A BROAD SPECTRUM OF BLOCK-SIZED TRADING OPPORTUNITIES.
+838;United States of America;US;RICX;;RiverCross;;Narberth;www.rxats.com;Narberth;TRUE;RIVERCROSS™ IS AN ALTERNATIVE TRADING SYSTEM (ATS) OPERATED PURSUANT TO REGULATION ATS BY RIVERCROSS SECURITIES, LLLP, PROVIDING A SECURE AND CONFIDENTIAL LIQUIDITY SOURCE FOR U.S.-REGISTERED BROKER-DEALERS AND THEIR CLIENTS.
+839;United States of America;US;RICD;RICX;RiverCross Dark;RIVERX;Narberth;www.rxats.com;Narberth;TRUE;DARK POOL.
+840;United States of America;US;SGMA;;Goldman Sach MTF;;New York;www2.goldmansachs.com;New York;TRUE;GS'S MTF. IMPLEMENTATION DATE: FEBRUARY 1ST 2008
+841;United States of America;US;SHAW;;D.E. Shaw;;New York;www.deshaw.com;New York;TRUE;
+842;United States of America;US;SHAD;SHAW;D.E. Shaw Dark;;New York;www.deshaw.com;New York;TRUE;DARK POOL.
+843;United States of America;US;SIGX;;Sigma X Canada;;Boston;gset.gs.com;Boston;TRUE;SIGMA X CANADA IS GOLDMAN SACHS CANADA INC'S NON-DISPLAYED ATS.
+844;United States of America;US;SSTX;;E-Exchange;EEXCHANGE;Boston;;Boston;TRUE;
+845;United States of America;US;TERA;;Teraexchange;;New Jersey;www.teraexchange.com;New Jersey;TRUE;SWAP EXECUTION FACILITY (OTC CLEARED INSTRUMENTS)
+846;United States of America;US;TFSU;;TFS Green United States Green Markets;TFS;New York;www.tradition.com;New York;TRUE;
+847;United States of America;US;TRCK;;Track ECN;;New York;www.trackecn.com;New York;TRUE;US ELECTRONIC COMMUNICATION NETWORK (ECN) FOR US EQUITIES.
+848;United States of America;US;TRWB;;Tradeweb LLC;;Jersey City;www.tradeweb.com;Jersey City;TRUE;
+849;United States of America;US;TRFX;TRWB;Tradeweb FX Options;;Jersey City;www.tradeweb.com;Jersey City;TRUE;MULTIDEALER- TO-CUSTOMER TRADING PLATFORM FOR FX OPTIONS.
+850;United States of America;US;TSBX;;Tripleshot;;Boston;www.tripleshot.net;Boston;TRUE;REGISTERED US EQUITY BLOCK ATS
+851;United States of America;US;UBSA;;UBS ATS;UBS ATS;New York;www.ubs.com;New York;TRUE;REGISTERED ALTERNATIVE TRADING SYSTEM FOR CROSSING ORDERS IN US EQUITIES
+852;United States of America;US;UBSP;UBSA;UBS PIN (UBS Price Improvement Network);;Stamford;www.ubs.com;Stamford;TRUE;THIS MIC COVERS UBS PIN GLOBALLY.
+853;United States of America;US;WELX;;Wells Fargo Liquidity Cross ATS;;New York;www.wellsfargo.com;New York;TRUE;
+854;United States of America;US;XAQS;;Automated Equity Finance Markets;AQS;New York;www.quadriserv.com;New York;TRUE;ATS FOR STOCK LENDING AND BORROWING
+855;United States of America;US;XBOX;;Boston Options Exchange;BOX;Boston;www.bostonoptions.com;Boston;TRUE;
+856;United States of America;US;XCBO;;Chicago Board Options Exchange;CBOE;Chicago;www.cboe.com;Chicago;TRUE;FOR OPTIONS
+857;United States of America;US;C2OX;XCBO;C2 Options Exchange Inc.;;Chicago;;Chicago;TRUE;OPTIONS EXCHANGE FOR C2
+858;United States of America;US;CBSX;XCBO;Cboe Stock Exchange;CBSX;Chicago;www.cbsx.com;Chicago;TRUE;FOR EQUITIES
+859;United States of America;US;XCBF;XCBO;Cboe Futures Exchange;CFE;Chicago;www.cfe.cboe.com;Chicago;TRUE;FOR FUTURES
+860;United States of America;US;XCBT;;Chicago Board of Trade;CBOT;Chicago;www.cbot.com;Chicago;TRUE;
+861;United States of America;US;FCBT;XCBT;Chicago Board of Trade (Floor);CBOT (FLOOR);Chicago;www.cbot.com;Chicago;TRUE;
+862;United States of America;US;XCCX;;Chicago Climate Exchange, Inc;CCX;Chicago;www.chicagoclimateexchange.com;Chicago;TRUE;
+863;United States of America;US;XCFF;;Cantor Financial Futures Exchange;CANTOR;New York;www.cantor.com;New York;TRUE;
+864;United States of America;US;XCHI;;Chicago Stock Exchange, Inc;CHX;Chicago;www.chx.com;Chicago;TRUE;
+865;United States of America;US;XCIS;;National Stock Exchange;;Chicago;;Chicago;TRUE;
+866;United States of America;US;XCME;;Chicago Mercantile Exchange;CME;Chicago;www.cme.com;Chicago;TRUE;
+867;United States of America;US;FCME;XCME;Chicago Mercantile Exchange (Floor);CME (FLOOR);Chicago;www.cme.com;Chicago;TRUE;
+868;United States of America;US;GLBX;XCME;CME Globex;;Chicago;www.cme.com;Chicago;TRUE;
+869;United States of America;US;XIMM;XCME;International Monetary Market;;Chicago;www.cme.com;Chicago;TRUE;
+870;United States of America;US;XIOM;XCME;Index and Options Market;IOM;Chicago;www.cme.com;Chicago;TRUE;
+871;United States of America;US;XCUR;;Currenex;;New York;www.currenex.com;New York;TRUE;
+872;United States of America;US;XELX;;ELX;;New York;www.elxfutures.com;New York;TRUE;
+873;United States of America;US;XFCI;;FinancialContent Indexes;;Foster City;www.financialcontent.com;Foster City;TRUE;ELECTRONIC PLATFORM FOR INDEX CALCULATION
+874;United States of America;US;XGMX;;GMX Commodities Exchange;GMX;Miami;globalmx.globalclear.us;Miami;TRUE;ELECTRONIC TRADING PLATFORM FOR COMMODITIES, CFDS, CREDIT, FUTURES, METALS, AND NEW MARKETS.
+875;United States of America;US;XINS;;Instinet;;New York;www.instinet.com;New York;TRUE;
+876;United States of America;US;IBLX;XINS;Instinet BLX;;New York;www.instinet.com;New York;TRUE;VOLUME-TRIGGERED, MULTI-PARTY DARK CONTINUOUS BLOCK CROSSING ATS FOR US EQUITIES.
+877;United States of America;US;ICBX;XINS;Instinet CBX (US);;New York;www.instinet.com;New York;TRUE;CONTINUOUS BLOCK CROSSING DESTINATION FOR US EQUITIES.
+878;United States of America;US;ICRO;XINS;Instinet VWAP Cross;;New York;www.instinet.com;New York;TRUE;CALL MARKET CROSS PRICED AT THE DAY'S VWAP FOR US EQUITIES.
+879;United States of America;US;IIDX;XINS;Instinet IDX;;New York;www.instinet.com;New York;TRUE;POINT-IN-TIME DARK ATS FOR US EQUITIES.
+880;United States of America;US;XISX;;International Securities Exchange, LLC;ISE;New York;www.iseoptions.com;New York;TRUE;
+881;United States of America;US;GMNI;XISX;ISE Gemini Exchange;;New York;www.ise.com;New York;TRUE;ISE GEMINI EXCHANGE IS A NATIONAL SECURITIES EXCHANGE REGISTERED WITH THE UNITED STATES SECURITIES & EXCHANGE COMMISSION. ISE GEMINI EXCHANGE WILL FACILITATE THE ELECTRONIC TRADING OF EQUITY & INDEX OPTIONS.
+882;United States of America;US;XISA;XISX;International Securities Exchange, LLC -  Alternative Markets;ISE;New York;www.ise.com;New York;TRUE;PARIMUTUEL, ELETRONIC TRADING PLATFORM FOR DERIVATIVES.
+883;United States of America;US;XISE;XISX;International Securities Exchange, LLC - Equities;ISE;New York;www.ise.com;New York;TRUE;EQUITIES. ELECTRONIC MARKETPLACE.
+884;United States of America;US;XTPZ;XISX;International Securities Exchange, LLC - Topaz;;New York;www.ise.com;New York;TRUE;
+885;United States of America;US;XKBT;;Kansas City Board of Trade;KCBT;Kansas City;www.kcbt.com;Kansas City;TRUE;
+886;United States of America;US;XMER;;Merchants' Exchange;ME;Chicago;;Chicago;TRUE;
+887;United States of America;US;XMGE;;Minneapolis Grain Exchange;MGE;Minneapolis;www.mgex.com;Minneapolis;TRUE;
+888;United States of America;US;XMIO;;Miami International Securities Exchange - Options;;Princeton;www.miaxoptions.com;Princeton;TRUE;MIAX OPTIONS EXCHANGE: ELECTRONIC TRADING FOR DERIVATIVES.
+889;United States of America;US;XNAS;;NASDAQ - All Markets;NASDAQ;New York;www.nasdaq.com;New York;TRUE;
+890;United States of America;US;BOSD;XNAS;NASDAQ OMX BX Dark;NQBXDARK;New York;www.nasdaqomxtrader.com;New York;TRUE;DARK POOL
+891;United States of America;US;NASD;XNAS;NSDQ Dark;NSDQDARK;New York;www.nasdaq.com;New York;TRUE;DARK POOL
+892;United States of America;US;XBOS;XNAS;NASDAQ OMX BX;BSE;New York;www.nasdaqomxtrader.com;New York;TRUE;NASDAQ OMX HAS ACQUIRED THE BOSTON STOCK EXCHANGE (BSE).
+893;United States of America;US;XBRT;XNAS;Brut ECN;BRUT;New York;www.nasdaqtrader.com;New York;TRUE;
+894;United States of America;US;XBXO;XNAS;NASDAQ OMX BX Options;;New York;www.nasdaqomxtrader.com;New York;TRUE;ELECTRONIC MARKET FOR TRADING US LISTED DERIVATIVES.
+895;United States of America;US;XNCM;XNAS;NASDAQ Capital Market;;New York;www.nasdaq.com;New York;TRUE;PREVIOUSLY (2005) NAMED NASDAQ SMALLCAP MARKET.NASDAQ CAPITAL MARKET SECURITY SATISFIES ALL APPLICABLE QUALIFICATION REQUIREMENTS FOR NASDAQ SECURITIES IN RULE 4300 OTHER THAN THOSE APPLICABLE TO NASDAQ NATIONAL MARKET SECURITIES.
+896;United States of America;US;XNDQ;XNAS;NASDAQ Options Market;;New York;www.nasdaq.com;New York;TRUE;
+897;United States of America;US;XNGS;XNAS;NASDAQ/NGS (Global Select Market);NGS;New York;www.nasdaq.com;New York;TRUE;
+898;United States of America;US;XNIM;XNAS;NASDAQ Intermarket;;New York;www.nasdaq.com;New York;TRUE;ELECTRONIC MARKETPLACE COMPRISED OF MULTIPLE BROKER-DEALERS THAT QUOTE AND TRADE SECURITIES LISTED ON NYSE AND AMEX
+899;United States of America;US;XNMS;XNAS;NASDAQ/NMS (Global Market);;New York;www.nasdaq.com;New York;TRUE;
+900;United States of America;US;XPBT;XNAS;NASDAQ OMX Futures Exchange;NFX;Philadelphia;www.nasdaqtrader.com;Philadelphia;TRUE;NASDAQ ACQUIRED THE PHILADELPHIA STOCK EXCHANGE (PHLX)
+901;United States of America;US;XPHL;XNAS;NASDAQ OMX PHLX;PHLX;Philadelphia;www.phlx.com;Philadelphia;TRUE;NASDAQ ACQUIRED THE PHILADELPHIA STOCK EXCHANGE (PHLX)
+902;United States of America;US;XPHO;XNAS;Philadelphia Options Exchange;;Philadelphia;www.phlx.com;Philadelphia;TRUE;
+903;United States of America;US;XPOR;XNAS;Portal;;Washington;www.nasdaqportalmarket.com;Washington;TRUE;
+904;United States of America;US;XPSX;XNAS;NASDAQ OMX PSX;PSX;New York;www.nasdaqtrader.com;New York;TRUE;US EQUITIES EXCHANGE
+905;United States of America;US;XNYM;;New York Mercantile Exchange;NYMEX;New York;www.nymex.com;New York;TRUE;
+906;United States of America;US;XCEC;XNYM;Commodities Exchange Center;COMEX;New York;www.nymex.com;New York;TRUE;
+907;United States of America;US;XNYE;XNYM;New York Mercantile Exchange - OTC Markets;NYMEX ECM;New York;www.nymex.com;New York;TRUE;DIVISION OF THE NEW YORK MERCANTILE EXCHANGE - OTC MARKETS (ECM)
+908;United States of America;US;XNYL;XNYM;New York Mercantile Exchange - Energy Markets;NYMEX MTF LIMITED;New York;www.nymexonlchclearnet.com;New York;TRUE;ELECTRONIC TRADING PLATFORM FOR ENERGY MARKETS
+909;United States of America;US;XNYS;;New York Stock Exchange, Inc.;NYSE;New York;www.nyse.com;New York;TRUE;
+910;United States of America;US;ALDP;XNYS;NYSE Alternext Dark;AMEXDARK;New York;www.euronext.com/landing/equitiesop-21363-en.html;New York;TRUE;DARK POOL.
+911;United States of America;US;AMXO;XNYS;NYSE AMEX Options;NYSE;New York;www.nyse.com;New York;TRUE;
+912;United States of America;US;ARCD;XNYS;Arca Dark;ARCADARK;New York;www.nyse.com;New York;TRUE;DARK POOL.
+913;United States of America;US;ARCO;XNYS;NYSE Arca Options;;New York;www.nyse.com;New York;TRUE;NYSE ARCA OPTIONS TRADING PLATFORM FROM NYSE EURONEXT.
+914;United States of America;US;ARCX;XNYS;NYSE Arca;NYSE;New York;www.nyse.com;New York;TRUE;
+915;United States of America;US;NYSD;XNYS;NYSE Dark;NYSEDARK;New York;www.nyse.com;New York;TRUE;DARK POOL.
+916;United States of America;US;XASE;XNYS;NYSE Mkt Llc;AMEX;New York;www.nyse.com;New York;TRUE;NYSE ALTERNEXT HAS CHANGED THEIR NAME TO NYSE AMEX EQUITIES
+917;United States of America;US;XNLI;XNYS;NYSE Liffe;;New York;www.nyse.com;New York;TRUE;
+918;United States of America;US;XOCH;;OneChicago, LLC;;Chicago;www.onechicago.com;Chicago;TRUE;
+919;United States of America;US;XOTC;;OTCBB;OTCBB;Washington;www.otcbb.com;Washington;TRUE;
+920;United States of America;US;XSEF;;SwapEx;SEF;Boston;www.statestreet.com;Boston;TRUE;SWAP EXECUTION FACILITY.
+921;United States of America;US;XWEE;;Weeden ATS;;Greenwich;www.weedenco.com;Greenwich;TRUE;REGISTERED ELECTRONIC ATS FOR US EQUITIES.
+922;Uruguay;UY;BVUR;;Bolsa Electronica de Valores del Uruguay;;Montevideo;https://web.bevsa.com.uy/BEVSAIntranet2008/inicio/default.aspx;Montevideo;TRUE;REGISTERED ELECTRONIC STOCK EXCHANGE.
+923;Uruguay;UY;XMNT;;Bolsa de Valores de Montevideo;BVMT;Montevideo;www.bvm.com.uy;Montevideo;TRUE;
+924;Uzbekistan;UZ;XCET;;Uzbek Commodity Exchange;;Tashkent;www.uzex.com;Tashkent;TRUE;
+925;Uzbekistan;UZ;XCUE;;Uzbekistan Republican Currency Exchange;;Tashkent;;Tashkent;TRUE;
+926;Uzbekistan;UZ;XKCE;;Khorezm Interregion Commodity Exchange;;Tashkent;;Tashkent;TRUE;
+927;Uzbekistan;UZ;XSTE;;Republican Stock Exchange;UZSE;Tashkent;www.uzse.uz;Tashkent;TRUE;
+928;Uzbekistan;UZ;XUNI;;Universal Broker's Exchange 'Tashkent';;Tashkent;;Tashkent;TRUE;
+929;Vanuatu;VU;GXMA;;GX Marketcenter;;Vila;;Vila;TRUE;
+930;Venezuela;VE;BVCA;;Bolsa Electronica de Valores de Caracas;;Caracas;www.bolsadecaracas.com;Caracas;TRUE;REGISTERED MARKET FOR EQUITIES AND BONDS, ELECTRONIC TRADING ONLY
+931;Venezuela;VE;XCAR;BVCA;Bolsa de Valores de Caracas;;Caracas;www.bolsadecaracas.com;Caracas;TRUE;
+932;Viet Nam;VN;HSTC;;Hanoi Stock Exchange;HNX;Hanoi;www.hnx.vn;Hanoi;TRUE;HANOI SECURITIES TRADING CENTRE HAS BECOME THE HANOI STOCK EXCHANGE IN JANUARY 2009.
+933;Viet Nam;VN;XHNX;HSTC;Hanoi Stock Exchange (Unlisted Public Company Trading Platform);UPCOM;Hanoi;www.hnx.vn;Hanoi;TRUE;TRADING PLATFORM FOR UNLISTED PUBLIC COMPANIES WHICH DON'T MEET THE LISTING CRITERIA BUT TRADED IN THE OTC MARKET.
+934;Viet Nam;VN;XSTC;;Hochiminh Stock Exchange;HOSE;Ho Chi Minh City;www.hsx.vn;Ho Chi Minh City;TRUE;
+935;Zambia;ZM;XLUS;;Lusaka Stock Exchange;;Lusaka;www.luse.co.zm;Lusaka;TRUE;
+936;Zimbabwe;ZW;XZIM;;Zimbabwe Stock Exchange;;Harare;www.zse.co.zw;Harare;TRUE;
