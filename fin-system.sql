@@ -718,17 +718,7 @@ AS $$
 		l int;
 		p character(1);
 	BEGIN
-		l := length(code);
-		IF l = 0 THEN
-			RETURN FALSE;
-		END IF;
-		FOR i IN 1..l LOOP
-			p := substr(code, i, 1);
-			IF NOT ((upper(p) BETWEEN 'A' AND 'Z') OR (p BETWEEN '0' AND '9') OR (p IN ('~', '!', '@', '#', '$', '%', '^', '*', '-', '+', '=', '.', '/'))) THEN
-				RETURN FALSE;
-			END IF;
-		END LOOP;
-		RETURN TRUE;
+		RETURN code SIMILAR TO '[a-zA-Z0-9~!@#$%^*+=./-]+';
 	END
 $$;
 

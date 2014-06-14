@@ -77,63 +77,24 @@ CREATE OPERATOR ~| (
 CREATE FUNCTION common.is_valid_alpha_code(code character varying) RETURNS boolean
 	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
-	DECLARE
-		l int;
-		p character(1);
 	BEGIN
-		l := length(code);
-		IF l = 0 THEN
-			RETURN FALSE;
-		END IF;
-		FOR i IN 1..l LOOP
-			p := upper(substr(code, i, 1));
-			IF NOT (p BETWEEN 'A' AND 'Z') THEN
-				RETURN FALSE;
-			END IF;
-		END LOOP;
-		RETURN TRUE;
+		RETURN code SIMILAR TO '[a-zA-Z]+';
 	END
 $$;
 
 CREATE FUNCTION common.is_valid_numerical_code(code character varying) RETURNS boolean
 	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
-	DECLARE
-		l int;
-		p character(1);
 	BEGIN
-		l := length(code);
-		IF l = 0 THEN
-			RETURN FALSE;
-		END IF;
-		FOR i IN 1..l LOOP
-			p := substr(code, i, 1);
-			IF NOT (p BETWEEN '0' AND '9') THEN
-				RETURN FALSE;
-			END IF;
-		END LOOP;
-		RETURN TRUE;
+		RETURN code SIMILAR TO '[0-9]+';
 	END
 $$;
 
 CREATE FUNCTION common.is_valid_alpha_numerical_code(code character varying) RETURNS boolean
 	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
-	DECLARE
-		l int;
-		p character(1);
 	BEGIN
-		l := length(code);
-		IF l = 0 THEN
-			RETURN FALSE;
-		END IF;
-		FOR i IN 1..l LOOP
-			p := upper(substr(code, i, 1));
-			IF NOT ((p BETWEEN 'A' AND 'Z') OR (p BETWEEN '0' AND '9')) THEN
-				RETURN FALSE;
-			END IF;
-		END LOOP;
-		RETURN TRUE;
+		RETURN code SIMILAR TO '[a-zA-Z0-9]+';
 	END
 $$;
 
@@ -178,13 +139,9 @@ AS $$
 		isin := upper(isin);
 	 
 		-- Check of format
-		IF
-			substr(isin, 1, 1) NOT BETWEEN 'A' AND 'Z'
-			OR substr(isin, 2, 1) NOT BETWEEN 'A' AND 'Z'
-			OR substr(isin, 12, 1) NOT BETWEEN '0' AND '9'
-		THEN
+		IF NOT code SIMILAR TO '[A-Z][A-Z]__________[A-Z]' THEN
 			RETURN NULL;
-		END IF;
+		END IF
 		
 		-- TODO: Check of existence of country
 	 
@@ -230,9 +187,7 @@ AS $$
 		check_sum int;
 	BEGIN
 		-- Check of format
-		IF
-			substr(cusip, 9, 1) NOT BETWEEN '0' AND '9'
-		THEN
+		IF substr(cusip, 9, 1) NOT BETWEEN '0' AND '9' THEN
 			RETURN NULL;
 		END IF;
 		check_sum := 0;
@@ -272,9 +227,7 @@ AS $$
 		check_sum int;
 	BEGIN
 		-- Check of format
-		IF
-			substr(sedol, 7, 1) NOT BETWEEN '0' AND '9'
-		THEN
+		IF substr(sedol, 7, 1) NOT BETWEEN '0' AND '9' THEN
 			RETURN NULL;
 		END IF;
 		weights := ARRAY[1, 3, 1, 7, 3, 9, 1];
