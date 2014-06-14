@@ -24,7 +24,7 @@
 -------------------------------------------------------------------------------
 
 CREATE FUNCTION procs.price_semisum(x1 price_type, x2 price_type) RETURNS price_type
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		RETURN (bid_price + ask_price) / 2;
@@ -32,7 +32,7 @@ AS $$
 $$;
 
 CREATE FUNCTION procs.price_add_half_of_spread(x price_type, spread price_type) RETURNS price_type
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		RETURN x + spread / 2;
@@ -40,7 +40,7 @@ AS $$
 $$;
 
 CREATE FUNCTION procs.price_sub_half_of_spread(x price_type, spread price_type) RETURNS price_type
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		RETURN x - spread / 2;

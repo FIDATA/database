@@ -24,7 +24,7 @@
 -------------------------------------------------------------------------------
 
 CREATE FUNCTION procs.change(x2 time_interval, x1 time_interval) RETURNS time_interval
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		RETURN x2 - x1;
@@ -32,7 +32,7 @@ AS $$
 $$;
 
 CREATE FUNCTION procs.change(x2 time_moment, x1 time_moment) RETURNS time_interval
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		RETURN x2 - x1;
@@ -40,7 +40,7 @@ AS $$
 $$;
 
 CREATE FUNCTION procs.change(x2 price_type, x1 price_type) RETURNS amount_type
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		RETURN x2 - x1;
@@ -48,7 +48,7 @@ AS $$
 $$;
 
 CREATE FUNCTION procs.change(x2 pieces_type, x1 pieces_type) RETURNS pieces_type
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		RETURN x2 - x1;
@@ -56,7 +56,7 @@ AS $$
 $$;
 
 CREATE FUNCTION procs.change(x2 amount_type, x1 amount_type) RETURNS amount_type
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		RETURN x2 - x1;
@@ -64,7 +64,7 @@ AS $$
 $$;
 
 CREATE FUNCTION procs.change(x2 double precision, x1 double precision) RETURNS double precision
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		RETURN x2 - x1;
@@ -72,7 +72,7 @@ AS $$
 $$;
 
 CREATE FUNCTION procs.growth_rate(x2 anyelement, x1 anyelement) RETURNS double precision
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		IF sign(x1) * sign(x2) >= 0 THEN
@@ -93,7 +93,7 @@ AS $$
 $$;
 
 CREATE FUNCTION procs.change_rate(x2 anyelement, x1 anyelement) RETURNS double precision
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		IF sign(x1) * sign(x2) >= 0 THEN
@@ -114,7 +114,7 @@ AS $$
 $$;
 
 CREATE FUNCTION procs.ln_growth_rate(x2 anyelement, x1 anyelement) RETURNS double precision
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		-- Here we assume that '0' means '+0'
@@ -133,7 +133,7 @@ AS $$
 $$;
 
 CREATE FUNCTION procs.one_percent_of_change(x2 anyelement, x1 anyelement) RETURNS anyelement
-	LANGUAGE plpgsql STABLE RETURNS NULL ON NULL INPUT
+	LANGUAGE plpgsql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	BEGIN
 		IF x1 <> 0 THEN
