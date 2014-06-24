@@ -339,6 +339,9 @@ CREATE UNIQUE INDEX ON instruments (grnv);
 CREATE INDEX ON instruments (nom_price_curr);
 CREATE UNIQUE INDEX ON instruments (upper(name));
 CREATE INDEX ON instruments (actuality);
+/* TODO: Maybe we should ask PostgreSQL team to add feature to allow creation
+of foreign key when only part of it is already unique in referenced table */
+CREATE UNIQUE INDEX ON instruments (id, instr_type);
 SELECT setval('instruments_id_seq', 1048576);
 
 CREATE FUNCTION triggers.instruments_set_codes_case() RETURNS trigger
@@ -359,7 +362,7 @@ CREATE TRIGGER set_codes_case
 	EXECUTE PROCEDURE triggers.instruments_set_codes_case()
 ;
 
-CREATE FUNCTION triggers.after_insert_currency() RETURNS trigger
+CREATE FUNCTION triggers.instruments_after_insert_currency() RETURNS trigger
 	LANGUAGE plpgsql VOLATILE
 AS $$
 	BEGIN
@@ -371,9 +374,9 @@ AS $$
 $$;
 CREATE TRIGGER after_insert_currency
 	AFTER INSERT
-	ON tickers
+	ON instruments
 	FOR EACH ROW
-	EXECUTE PROCEDURE triggers.tickers_after_insert_currency()
+	EXECUTE PROCEDURE triggers.instruments_after_insert_currency()
 ;
 
 

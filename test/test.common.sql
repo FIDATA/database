@@ -177,6 +177,7 @@ AS $$
 		PERFORM test.assert(common.is_valid_isin('U50378331005') IS NULL, 'Invalid format test 1 failed');
 		PERFORM test.assert(common.is_valid_isin('US037833100S') IS NULL, 'Invalid format test 2 failed');
 		PERFORM test.assert(common.is_valid_isin('4U0000XVGZA3') IS NULL, 'Invalid format test 3 failed');
+		PERFORM test.assert(common.is_valid_isin('US037833100') IS NULL, 'Invalid format test 4 failed');
 		
 		-- ALWAYS RAISE EXCEPTION at the end of test procs to rollback!
 		RAISE EXCEPTION '[OK]';
@@ -196,6 +197,7 @@ AS $$
 		PERFORM test.assert_equal(common.is_valid_cusip('037843100'), FALSE);
 		
 		PERFORM test.assert(common.is_valid_cusip('03784310O') IS NULL, 'Invalid format test 1 failed');
+		PERFORM test.assert(common.is_valid_cusip('03783310') IS NULL, 'Invalid format test 2 failed');
 		
 		-- ALWAYS RAISE EXCEPTION at the end of test procs to rollback!
 		RAISE EXCEPTION '[OK]';
@@ -217,6 +219,7 @@ AS $$
 		
 		PERFORM test.assert(common.is_valid_cusip('O263494') IS NULL, 'Invalid format test 1 failed');
 		PERFORM test.assert(common.is_valid_sedol('BIF3M59') IS NULL, 'Invalid format test 2 failed');
+		PERFORM test.assert(common.is_valid_sedol('026349') IS NULL, 'Invalid format test 3 failed');
 		
 		-- ALWAYS RAISE EXCEPTION at the end of test procs to rollback!
 		RAISE EXCEPTION '[OK]';

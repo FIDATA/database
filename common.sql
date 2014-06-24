@@ -139,9 +139,9 @@ AS $$
 		isin := upper(isin);
 	 
 		-- Check of format
-		IF NOT code SIMILAR TO '[A-Z][A-Z]__________[A-Z]' THEN
+		IF NOT isin SIMILAR TO '[A-Z][A-Z]_________[0-9]' THEN
 			RETURN NULL;
-		END IF
+		END IF;
 		
 		-- TODO: Check of existence of country
 	 

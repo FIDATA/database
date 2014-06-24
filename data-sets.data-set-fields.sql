@@ -263,7 +263,7 @@ AS $$
 						NULL;
 				END CASE;
 			ELSE
-				RETURN get_ds_field_type((
+				res := get_ds_field_type((
 					SELECT
 						source_ds_field
 					FROM
@@ -272,6 +272,7 @@ AS $$
 						(ds_field = i.ds_field)
 						AND (oper_index = i.oper_index)
 				));
+				EXIT;
 			END IF;
 		END LOOP;
 		IF res_is_diff THEN

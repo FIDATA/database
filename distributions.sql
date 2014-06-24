@@ -156,4 +156,4 @@ REVOKE
 
 
 SELECT register_distributions('scipy.stats.distributions');
-SELECT register_distributions('FIDATA.stat');
+-- SELECT register_distributions('FIDATA.stat');
