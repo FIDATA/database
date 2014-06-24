@@ -38,7 +38,7 @@ DECLARE
   failed    bool;
 BEGIN
   -- assert_raises() MUST return VOID if an error is raised.
-  SELECT INTO retval * FROM test.assert_raises('unknown', 'relation "unknown" does not exist', '42P01');
+  SELECT INTO retval * FROM test.assert_raises('unknown', NULL, '42P01');
   IF retval != '' THEN
     RAISE EXCEPTION 'test.assert_raises() did not return void.';
   END IF;
@@ -141,7 +141,7 @@ BEGIN
   -- assert_equal() will raise an undefined_function exception if the args have different types.
   -- It would be nice to find a way around this (without writing M x N overloaded funcs).
   PERFORM test.assert_raises('test.assert_equal(8, ''abc''::text)',
-    'function test.assert_equal(integer, text) does not exist', '42883');
+    NULL, '42883');
   
   RAISE EXCEPTION '[OK]';
 END;
@@ -172,7 +172,7 @@ BEGIN
   -- assert_not_equal() will raise an undefined_function exception if the args have different types.
   -- It would be nice to find a way around this (without writing M x N overloaded funcs).
   PERFORM test.assert_raises('test.assert_not_equal(8, ''abc''::text)', 
-    'function test.assert_not_equal(integer, text) does not exist', '42883');
+    NULL, '42883');
   
   RAISE EXCEPTION '[OK]';
 END;
@@ -204,7 +204,7 @@ BEGIN
   -- assert_less_than() will raise an undefined_function exception if the args have different types.
   -- It would be nice to find a way around this (without writing M x N overloaded funcs).
   PERFORM test.assert_raises('test.assert_less_than(8, ''abc''::text)', 
-    'function test.assert_less_than(integer, text) does not exist', '42883');
+    NULL, '42883');
   
   RAISE EXCEPTION '[OK]';
 END;
@@ -235,7 +235,7 @@ BEGIN
   -- assert_less_than_or_equal() will raise an undefined_function exception if the args have different types.
   -- It would be nice to find a way around this (without writing M x N overloaded funcs).
   PERFORM test.assert_raises('test.assert_less_than_or_equal(8, ''abc''::text)', 
-    'function test.assert_less_than_or_equal(integer, text) does not exist', '42883');
+    NULL, '42883');
   
   RAISE EXCEPTION '[OK]';
 END;
@@ -267,7 +267,7 @@ BEGIN
   -- assert_greater_than() will raise an undefined_function exception if the args have different types.
   -- It would be nice to find a way around this (without writing M x N overloaded funcs).
   PERFORM test.assert_raises('test.assert_greater_than(8, ''abc''::text)', 
-    'function test.assert_greater_than(integer, text) does not exist', '42883');
+    NULL, '42883');
   
   RAISE EXCEPTION '[OK]';
 END;
@@ -298,7 +298,7 @@ BEGIN
   -- assert_greater_than_or_equal() will raise an undefined_function exception if the args have different types.
   -- It would be nice to find a way around this (without writing M x N overloaded funcs).
   PERFORM test.assert_raises('test.assert_greater_than_or_equal(8, ''abc''::text)', 
-    'function test.assert_greater_than_or_equal(integer, text) does not exist', '42883');
+    NULL, '42883');
   
   RAISE EXCEPTION '[OK]';
 END;
@@ -333,7 +333,7 @@ BEGIN
       'SELECT * FROM generate_series(1, 5)');
   EXCEPTION WHEN OTHERS THEN
     failed := true;
-    IF SQLERRM = 'Record: (6) from: generate_series(1, 10) not found in: SELECT * FROM generate_series(1, 5)' THEN
+    IF SQLERRM ~ 'Record: \(\d{1,2}\) from: generate_series\(1, 10\) not found in: SELECT \* FROM generate_series\(1, 5\)' THEN
       NULL;
     ELSE
       RAISE EXCEPTION 'test.assert_rows() did not raise the correct error. Raised: %', SQLERRM;

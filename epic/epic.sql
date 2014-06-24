@@ -234,7 +234,7 @@ BEGIN
   result := rtrim(call, ';');
   IF result ~* '^[[:space:]]*(SELECT|EXECUTE)[[:space:]]' THEN
     return result;
-  ELSIF result ~* '^[[:space:]]*(VALUES)[[:space:]]*\\(' THEN
+  ELSIF result ~* '^[[:space:]]*(VALUES)[[:space:]]*\(' THEN
     return result;
   ELSE
     return 'SELECT * FROM ' || result;
