@@ -442,12 +442,12 @@ $$ LANGUAGE plpgsql;
 CREATE OR REPLACE FUNCTION test.run_module(modulename text) RETURNS SETOF test.results AS $$
 -- Runs all tests in the given module, stores in test.results, and returns results.
 DECLARE
-  testname        record;
+  testname        text;
   output_record   test.results%ROWTYPE;
 BEGIN
   FOR testname IN SELECT name FROM test.testnames WHERE module = modulename ORDER BY name ASC
   LOOP
-    SELECT INTO output_record * FROM test.run_test(testname.name /* Fixed by Basil Peace */);
+    SELECT INTO output_record * FROM test.run_test(testname);
     RETURN NEXT output_record;
   END LOOP;
 END;
