@@ -271,10 +271,10 @@ AS $$
 $$;
 
 CREATE FUNCTION common.escape_query_for_python(query text) RETURNS text
-	LANGUAGE plpgsql VOLATILE
+	LANGUAGE plpgsql IMMUTABLE
 AS $$
 	BEGIN
-		RETURN replace(statement, '%', '%%');
+		RETURN replace(query, '%', '%%');
 	END
 $$;
 
