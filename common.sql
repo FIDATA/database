@@ -55,7 +55,7 @@ CREATE DOMAIN common.name_type character varying(64);
 -------------------------------------------------------------------------------
 
 CREATE FUNCTION common.xor(boolean, boolean) RETURNS boolean
-	LANGUAGE sql IMMUTABLE
+	LANGUAGE sql IMMUTABLE RETURNS NULL ON NULL INPUT
 AS $$
 	SELECT ($1 AND NOT $2) OR (NOT $1 AND $2);
 $$;
@@ -70,6 +70,12 @@ CREATE OPERATOR ~| (
 );
 
 -------------------------------------------------------------------------------
+
+CREATE AGGREGATE public.bool_xor (
+	sfunc    = common.xor,
+	basetype = boolean,
+	stype    = boolean
+);
 
 
 
